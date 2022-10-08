@@ -1,0 +1,28 @@
+<svg width="63px" height="63px" viewBox="0 0 55 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position: absolute; right: 345px; bottom: -55px;">
+                                        <defs>
+                                        <circle id="path-1" cx="17.5" cy="17.5" r="17.5"></circle>
+                                        <filter x="-72.9%" y="-58.6%" width="245.7%" height="245.7%" filterUnits="objectBoundingBox" id="filter-2">
+                                        <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+                                        <feOffset dx="0" dy="5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+                                        <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+                                        <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.250980392   0 0 0 0 0.501960784  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+                                        </filter>
+                                        </defs>
+                                        <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                            <g id="Mailtag.io-Checkout" transform="translate(-208.000000, -748.000000)">
+                                                <g id="Mailtag.io-Scheduled-Emails-+-Popup-Mask">
+                                                    <g id="Popup" transform="translate(133.000000, 55.000000)">
+                                                        <g id="FAQ" transform="translate(84.000000, 698.000000)">
+                                                            <g id="Bg">
+                                                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                                            </g>
+                                                            <text id="?" font-family="ProximaNovaRegular" font-size="17" font-weight="bold" line-spacing="26" fill="#2B9EFF">
+                                                            <tspan x="14" y="24">?</tspan>
+                                                            </text>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </svg>

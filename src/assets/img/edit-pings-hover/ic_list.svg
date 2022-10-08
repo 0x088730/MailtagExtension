@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="13px" viewBox="0 0 18 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>List</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mailtag.io-Edit-Ping-Sequence" transform="translate(-1126.000000, -355.000000)">
+            <g id="Mailtag.io-Inbox">
+                <g id="Ping-1" transform="translate(401.000000, 255.000000)">
+                    <g id="Editor" transform="translate(129.000000, 0.000000)">
+                        <g id="Editor-header" transform="translate(0.000000, 25.000000)">
+                            <g id="Text-controls" transform="translate(35.000000, 64.000000)">
+                                <g id="Icons" transform="translate(12.000000, 9.000000)">
+                                    <g id="List" transform="translate(549.000000, 2.000000)">
+                                        <path d="M5.36842105,0.928571429 L17,0.928571429" id="Shape" stroke="#2B9EFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        <ellipse id="Oval-3" fill="#2B9EFF" fill-rule="nonzero" cx="0.894736842" cy="0.928571429" rx="1" ry="1"></ellipse>
+                                        <ellipse id="Oval-3" fill="#2B9EFF" fill-rule="nonzero" cx="0.894736842" cy="6.5" rx="1" ry="1"></ellipse>
+                                        <ellipse id="Oval-3" fill="#2B9EFF" fill-rule="nonzero" cx="0.894736842" cy="12.0714286" rx="1" ry="1"></ellipse>
+                                        <path d="M5.36842105,6.5 L17,6.5" id="Shape" stroke="#2B9EFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        <path d="M5.36842105,12.0714286 L17,12.0714286" id="Shape" stroke="#2B9EFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

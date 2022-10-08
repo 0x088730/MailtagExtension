@@ -1,0 +1,42 @@
+
+
+@import 'mailtag-dashboard/variables';
+@import 'mailtag-dashboard/mixins';
+
+// Plugins CSS
+@import "mailtag-dashboard/plugins/plugin-animate-bootstrap-notify";
+@import "mailtag-dashboard/plugins/plugin-perfect-scrollbar";
+
+// Core CSS
+@import "mailtag-dashboard/buttons";
+@import "mailtag-dashboard/inputs";
+@import "mailtag-dashboard/typography";
+@import "mailtag-dashboard/misc";
+@import "mailtag-dashboard/checkboxes-radio";
+
+
+// components
+@import "mailtag-dashboard/navbar";
+@import "mailtag-dashboard/page-header";
+@import "mailtag-dashboard/dropdown";
+@import "mailtag-dashboard/alerts";
+@import "mailtag-dashboard/images";
+@import "mailtag-dashboard/nucleo-outline";
+@import "mailtag-dashboard/tables";
+@import "mailtag-dashboard/sidebar-and-main-panel";
+@import "mailtag-dashboard/footers";
+@import "mailtag-dashboard/fixed-plugin";
+
+// cards
+@import "mailtag-dashboard/cards";
+@import "mailtag-dashboard/cards/card-plain";
+@import "mailtag-dashboard/cards/card-chart";
+@import "mailtag-dashboard/cards/card-user";
+@import "mailtag-dashboard/cards/card-map";
+@import "mailtag-dashboard/cards/card-stats";
+
+@import "mailtag-dashboard/responsive";
+
+// html to react differences
+@import "mailtag-dashboard/react/react-differences.scss";
+@import "custom.scss";

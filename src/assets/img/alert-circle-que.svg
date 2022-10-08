@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>?</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mailtag.io-Settings-Preferences" transform="translate(-588.000000, -661.000000)">
+            <g id="Mailtag.io-Scheduled-Emails-Empty">
+                <g id="6-Enabled" transform="translate(393.000000, 576.000000)">
+                    <g id="?" transform="translate(195.000000, 85.000000)">
+                        <circle id="Bg" fill="#2F3D4C" fill-rule="nonzero" cx="9" cy="9" r="9"></circle>
+                        <path d="M8.3,11.144 C8.006,10.822 7.838,10.402 7.838,9.912 C7.838,8.246 9.882,8.05 9.882,7.084 C9.882,6.65 9.56,6.286 8.79,6.286 C8.09,6.286 7.502,6.636 7.068,7.154 L5.934,5.88 C6.676,5.012 7.796,4.522 9,4.522 C10.806,4.522 11.912,5.432 11.912,6.734 C11.912,8.778 9.574,8.932 9.574,10.108 C9.574,10.332 9.686,10.57 9.826,10.696 L8.3,11.144 Z M8.972,14.154 C8.356,14.154 7.838,13.636 7.838,13.02 C7.838,12.404 8.356,11.886 8.972,11.886 C9.588,11.886 10.106,12.404 10.106,13.02 C10.106,13.636 9.588,14.154 8.972,14.154 Z" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

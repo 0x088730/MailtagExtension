@@ -1,0 +1,22 @@
+import styled from "styled-components";
+const PaymentEditButton = styled.button`
+  margin: 0px;
+  width: 80px;
+  font-style: normal;
+  padding: 9px 10px;
+  display: inline-block;
+  border: none;
+  border-radius: 25px;
+  -webkit-letter-spacing: 2px;
+  -moz-letter-spacing: 2px;
+  -ms-letter-spacing: 2px;
+  letter-spacing: 2px;
+  font-weight: 400;
+  cursor: pointer;
+  color: #ffffff;
+  font-size: 11px;
+  text-transform: uppercase;
+  background-color: #0098fb;
+  color: white;
+`;
+export default PaymentEditButton;

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 17" width="13" height="17">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #ea4335;stroke-linecap:round;stroke-linejoin:round;stroke-width: 1.875 } 
+	</style>
+	<g id="Page-1">
+		<g id="Mailtag.io-Dashboard">
+			<g id="1">
+				<g id="Layer">
+					<g id="arrow-down">
+						<path id="Shape" class="shp0" d="M6.5,1l0,15" />
+						<path id="Shape" class="shp0" d="M1,10.37l5.5,5.63l5.5,-5.62" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

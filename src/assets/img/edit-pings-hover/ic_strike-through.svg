@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="17px" viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Strike through</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mailtag.io-Edit-Ping-Sequence" transform="translate(-735.000000, -353.000000)">
+            <g id="Mailtag.io-Inbox">
+                <g id="Ping-1" transform="translate(401.000000, 255.000000)">
+                    <g id="Editor" transform="translate(129.000000, 0.000000)">
+                        <g id="Editor-header" transform="translate(0.000000, 25.000000)">
+                            <g id="Text-controls" transform="translate(35.000000, 64.000000)">
+                                <g id="Icons" transform="translate(12.000000, 9.000000)">
+                                    <g id="Strike-through" transform="translate(159.000000, 0.000000)">
+                                        <path d="M7.5635,16.3844211 C4.9245,16.3844211 2.99075,15.3608421 1.7395,13.9185263 L2.85425,12.4529474 C3.85525,13.5928421 5.49325,14.6629474 7.63175,14.6629474 C10.339,14.6629474 11.2035,13.1741053 11.2035,11.9876842 C11.2035,7.98642105 2.21725,10.1964211 2.21725,4.65978947 C2.21725,2.10084211 4.44675,0.356105263 7.427,0.356105263 C9.7475,0.356105263 11.54475,1.14705263 12.81875,2.51957895 L11.68125,3.93863158 C10.54375,2.65915789 8.95125,2.07757895 7.2905,2.07757895 C5.4705,2.07757895 4.17375,3.07789474 4.17375,4.54347368 C4.17375,8.03294737 13.16,6.03231579 13.16,11.8248421 C13.16,14.0813684 11.6585,16.3844211 7.5635,16.3844211 Z" id="S" fill="#2B9EFF"></path>
+                                        <path d="M0.4375,10.2894737 L13.5625,10.2894737" id="Line" stroke="#2B9EFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

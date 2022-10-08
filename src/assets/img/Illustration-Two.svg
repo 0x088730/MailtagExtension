@@ -1,0 +1,1491 @@
+<svg id="illustration_2" data-name="illustration 2" xmlns="http://www.w3.org/2000/svg" width="1100" height="400" viewBox="0 0 1100 400">
+  <defs>
+    <style>
+      .cls-1, .cls-12, .cls-14, .cls-15, .cls-18, .cls-20, .cls-4, .cls-7 {
+        fill: none;
+      }
+
+      .cls-1, .cls-12, .cls-18, .cls-19, .cls-2, .cls-21, .cls-4, .cls-5, .cls-7, .cls-8 {
+        stroke: #42a9f7;
+      }
+
+      .cls-1, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-2, .cls-20, .cls-21, .cls-4, .cls-5, .cls-7, .cls-8, .cls-9 {
+        stroke-width: 1.2px;
+      }
+
+      .cls-1 {
+        stroke-dasharray: 7.48 3.74;
+      }
+
+      .cls-1, .cls-12, .cls-13, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-2, .cls-20, .cls-3, .cls-4, .cls-5, .cls-6, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-10, .cls-17, .cls-2, .cls-3 {
+        fill: #ddeefe;
+      }
+
+      .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-2, .cls-4, .cls-5, .cls-7, .cls-8, .cls-9 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-11, .cls-13, .cls-16, .cls-19, .cls-21, .cls-5, .cls-6, .cls-8, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-9 {
+        stroke: #40a8f7;
+      }
+
+      .cls-12 {
+        stroke-width: 2.51px;
+      }
+
+      .cls-13 {
+        stroke: #3ea8f7;
+      }
+
+      .cls-14 {
+        stroke: #44aaf7;
+      }
+
+      .cls-15, .cls-16, .cls-17 {
+        stroke: #36a4f6;
+      }
+
+      .cls-20 {
+        stroke: #43a9f7;
+      }
+    </style>
+  </defs>
+  <g id="dotted_lines" data-name="dotted lines">
+    <path class="cls-1" d="M196.8,115.811s-39.253,41.4-1.808,54.346c0,0,19.7,2.588,56.051-3.623,0,0,60.2-14.163,44.3,39.854,0,0-2.5,11.272-18.985,32.608"/>
+    <path class="cls-1" d="M943.319,130.63s80.921,46.326-1.112,92.2c0,0-37.744,20.436-98.988-44.431,0,0-49.056-59.655-91.2-16.662,0,0-23.184,29.31,15.571,61.093,0,0,25.509,20.605,71.182,42.21,0,0,35.859,20.7,5.561,53.318"/>
+  </g>
+  <g id="palace">
+    <g id="bg">
+      <path id="background1" class="cls-2" d="M100.254,229.49H401.667v99.971h-300.3Z"/>
+      <path id="background2" class="cls-2" d="M438.37,223.936H623V330.571l-184.629-1.11V223.936Z"/>
+      <path id="background3" class="cls-2" d="M656.366,228.379H903.279c1.08,0,2.28,3.332,3.337,3.332h50.05V328.35L658.59,330.571Z"/>
+    </g>
+    <g id="tower_large" data-name="tower large">
+      <path class="cls-3" d="M72.449,72.869v257.7h68.958V71.758H125.836v48.875H113.6v-8.887H100.254v8.887H88.02V72.869H72.449Z"/>
+      <path class="cls-3" d="M86.908,99.528L92.469,73.98h27.805l6.674,25.548v13.329H86.908V99.528Z"/>
+      <path id="Shape_1153_copy" data-name="Shape 1153 copy" class="cls-4" d="M82.459,99.528L88.02,73.98h27.806L122.5,99.528v13.329H82.459V99.528Z"/>
+      <path id="Shape_1128_copy" data-name="Shape 1128 copy" class="cls-4" d="M68,72.869v257.7h68.958V71.758H121.387v48.875H109.152v-8.887H95.806v8.887H83.571V72.869H68Z"/>
+      <path class="cls-5" d="M88.02,161.732h5.561V148.4s-3.022-7.122-5.561,0v13.33Z"/>
+      <path id="Shape_1170_copy" data-name="Shape 1170 copy" class="cls-5" d="M95.806,161.732h5.562V148.4s-3.022-7.122-5.562,0v13.33Z"/>
+      <path id="Shape_1170_copy_2" data-name="Shape 1170 copy 2" class="cls-5" d="M103.591,161.732h5.561V148.4s-3.021-7.122-5.561,0v13.33Z"/>
+      <path id="Shape_1170_copy_3" data-name="Shape 1170 copy 3" class="cls-5" d="M111.377,161.732h5.561V148.4s-3.022-7.122-5.561,0v13.33Z"/>
+      <path id="Shape_1170_copy_4" data-name="Shape 1170 copy 4" class="cls-5" d="M88.02,180.615h5.561V165.064H88.02v15.551Z"/>
+      <path id="Shape_1170_copy_4-2" data-name="Shape 1170 copy 4" class="cls-5" d="M95.806,180.615h5.562V165.064H95.806v15.551Z"/>
+      <path id="Shape_1170_copy_4-3" data-name="Shape 1170 copy 4" class="cls-5" d="M103.591,180.615h5.561V165.064h-5.561v15.551Z"/>
+      <path id="Shape_1170_copy_4-4" data-name="Shape 1170 copy 4" class="cls-5" d="M111.377,180.615h5.561V165.064h-5.561v15.551Z"/>
+      <path class="cls-4" d="M69.112,137.294h66.734v3.333H69.112v-3.333Z"/>
+      <path id="Shape_1178_copy" data-name="Shape 1178 copy" class="cls-4" d="M69.112,186.169h66.734V189.5H69.112v-3.332Z"/>
+      <path class="cls-4" d="M101.367,60.65V20.662"/>
+      <path class="cls-4" d="M102.479,20.662s1.22,4.234,8.9,1.111c0,0,5.794-3.353,8.9,1.111V31.77s-4.931-2.274-7.785,0c0,0-7.961,3.936-10.01,1.111V20.662Z"/>
+      <g>
+        <path class="cls-3" d="M88.02,75.09V69.536L80.234,53.985l-7.785,14.44V75.09H88.02Z"/>
+        <path id="Shape_1127_copy_5" data-name="Shape 1127 copy 5" class="cls-4" d="M83.571,75.09V69.536L75.786,53.985,68,68.426V75.09H83.571Z"/>
+        <path id="Shape_1127_copy" data-name="Shape 1127 copy" class="cls-3" d="M141.407,73.98V68.426l-7.786-15.551-7.785,14.44V73.98h15.571Z"/>
+        <path id="Shape_1127_copy_6" data-name="Shape 1127 copy 6" class="cls-4" d="M136.958,73.98V68.426l-7.786-15.551-7.785,14.44V73.98h15.571Z"/>
+        <path id="Shape_1127_copy_2" data-name="Shape 1127 copy 2" class="cls-6" d="M123.611,121.743v-5.554l-7.785-15.551-7.786,14.441v6.664h15.571Z"/>
+        <path id="Shape_1127_copy_10" data-name="Shape 1127 copy 10" class="cls-3" d="M128.06,121.743v-5.554l-7.786-15.551-7.785,14.441v6.664H128.06Z"/>
+        <path id="Shape_1127_copy_9" data-name="Shape 1127 copy 9" class="cls-4" d="M123.611,121.743v-5.554l-7.785-15.551-7.786,14.441v6.664h15.571Z"/>
+        <path id="Shape_1127_copy_3" data-name="Shape 1127 copy 3" class="cls-6" d="M98.03,121.743v-5.554l-7.786-15.551-7.785,14.441v6.664H98.03Z"/>
+        <path id="Shape_1127_copy_8" data-name="Shape 1127 copy 8" class="cls-3" d="M101.367,121.743v-5.554l-7.786-15.551L85.8,115.079v6.664h15.572Z"/>
+        <path id="Shape_1127_copy_7" data-name="Shape 1127 copy 7" class="cls-4" d="M96.918,121.743v-5.554l-7.785-15.551-7.786,14.441v6.664H96.918Z"/>
+        <path id="Shape_1127_copy_4" data-name="Shape 1127 copy 4" class="cls-2" d="M110.264,92.863V87.309l-7.785-15.551L94.693,87.309v5.554h15.571Z"/>
+      </g>
+      <g>
+        <g id="cross">
+          <rect class="cls-7" x="74.656" y="39.563" width="2.219" height="16.625"/>
+        </g>
+        <g id="cross_copy" data-name="cross copy">
+          <rect class="cls-7" x="128.062" y="39.563" width="2.25" height="16.625"/>
+        </g>
+        <g id="cross_copy_3" data-name="cross copy 3">
+          <path class="cls-4" d="M114.713,93.974h2.225v10h-2.225v-10Z"/>
+        </g>
+        <g id="cross_copy_4" data-name="cross copy 4">
+          <path class="cls-4" d="M88.02,93.974h2.224v10H88.02v-10Z"/>
+        </g>
+        <g id="cross_copy_5" data-name="cross copy 5">
+          <path class="cls-4" d="M101.367,59.539h2.224V76.2h-2.224V59.539Z"/>
+          <path class="cls-4" d="M69.112,82.866H81.347"/>
+          <path id="Shape_1154_copy_2" data-name="Shape 1154 copy 2" class="cls-4" d="M123.611,82.866h12.235"/>
+          <path id="Shape_1154_copy_3" data-name="Shape 1154 copy 3" class="cls-4" d="M123.611,98.417h12.235"/>
+          <path class="cls-5" d="M95.806,91.752v19.994h14.459V91.752H96.918"/>
+          <path class="cls-4" d="M103.591,92.863v18.883"/>
+          <path class="cls-4" d="M84.683,120.633h2.224V127.3H84.683v-6.664Z"/>
+          <path id="Rectangle_1164_copy" data-name="Rectangle 1164 copy" class="cls-4" d="M91.357,120.633h2.224V127.3H91.357v-6.664Z"/>
+          <path id="Rectangle_1164_copy_2" data-name="Rectangle 1164 copy 2" class="cls-4" d="M111.377,120.633H113.6V127.3h-2.224v-6.664Z"/>
+          <path id="Rectangle_1164_copy_2-2" data-name="Rectangle 1164 copy 2" class="cls-4" d="M118.05,120.633h2.224V127.3H118.05v-6.664Z"/>
+          <path id="Shape_1154_copy" data-name="Shape 1154 copy" class="cls-4" d="M69.112,98.417H81.347"/>
+          <path class="cls-4" d="M74.673,75.09v8.886"/>
+          <path class="cls-4" d="M79.122,73.98v10"/>
+          <path id="Shape_1156_copy" data-name="Shape 1156 copy" class="cls-4" d="M128.06,72.869V83.977"/>
+          <path id="Shape_1157_copy" data-name="Shape 1157 copy" class="cls-4" d="M132.509,72.869V83.977"/>
+        </g>
+      </g>
+    </g>
+    <g id="pillar_1" data-name="pillar 1">
+      <path class="cls-3" d="M76.9,202.831l3.337,5.554v15.551l3.337,3.332,3.337-3.332V216.16l4.449-5.554,4.449,6.665v6.665l3.337,3.332,3.337-3.332V208.385l3.337-5.554,4.448,5.554V330.571H72.449V208.385Z"/>
+      <path id="Shape_16_copy" data-name="Shape 16 copy" class="cls-4" d="M72.449,202.831l3.337,5.554v15.551l3.337,3.332,3.337-3.332V216.16l4.449-5.554,4.449,6.665v6.665l3.337,3.332,3.337-3.332V208.385l3.337-5.554,4.449,5.554V330.571H68V208.385Z"/>
+      <path class="cls-4" d="M69.112,219.493h5.561"/>
+      <path id="Shape_23_copy" data-name="Shape 23 copy" class="cls-4" d="M99.142,219.493H104.7"/>
+      <path id="Shape_23_copy_2" data-name="Shape 23 copy 2" class="cls-4" d="M84.683,218.382h5.561"/>
+      <g>
+        <path class="cls-5" d="M80.234,278.364H73.561V271.7s3.13-5.47,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy" data-name="Shape 18 copy" class="cls-5" d="M89.132,278.364H82.459V271.7s3.13-5.47,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_2" data-name="Shape 18 copy 2" class="cls-5" d="M98.03,278.364H91.357V271.7s3.13-5.47,6.673,0v6.664Z"/>
+      </g>
+      <g>
+        <path id="Shape_18_copy_3" data-name="Shape 18 copy 3" class="cls-5" d="M80.234,291.694H73.561v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_3-2" data-name="Shape 18 copy 3" class="cls-5" d="M89.132,291.694H82.459v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_3-3" data-name="Shape 18 copy 3" class="cls-5" d="M98.03,291.694H91.357v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      </g>
+      <g id="double_window" data-name="double window">
+        <path id="Shape_18_copy_4" data-name="Shape 18 copy 4" class="cls-5" d="M80.234,305.023H73.561v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_4-2" data-name="Shape 18 copy 4" class="cls-5" d="M89.132,305.023H82.459v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_4-3" data-name="Shape 18 copy 4" class="cls-5" d="M98.03,305.023H91.357v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_5" data-name="Shape 18 copy 5" class="cls-5" d="M80.234,311.688H73.561v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_5-2" data-name="Shape 18 copy 5" class="cls-5" d="M89.132,311.688H82.459v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_5-3" data-name="Shape 18 copy 5" class="cls-5" d="M98.03,311.688H91.357v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      </g>
+      <g id="bottom_window" data-name="bottom  window">
+        <path class="cls-5" d="M75.786,330.571v-7.03s3.5-6.643,6.673,0v7.03H75.786Z"/>
+        <path id="Shape_19_copy" data-name="Shape 19 copy" class="cls-5" d="M89.132,330.571v-7.03s3.5-6.643,6.673,0v7.03H89.132Z"/>
+      </g>
+      <g id="quad_window" data-name="quad window">
+        <path class="cls-5" d="M78.01,255.038V242.819s3.047-5.573,8.9-5.554,8.9,5.554,8.9,5.554v12.219H78.01Z"/>
+        <path class="cls-5" d="M79.122,246.152H94.693"/>
+      </g>
+      <g>
+        <path class="cls-4" d="M69.112,258.37h34.479"/>
+        <path id="Shape_24_copy" data-name="Shape 24 copy" class="cls-4" d="M69.112,230.6h34.479"/>
+        <path class="cls-4" d="M69.112,263.924h34.479"/>
+        <path class="cls-4" d="M70.224,315.02h33.367"/>
+        <path class="cls-4" d="M73.561,197.277v6.665"/>
+        <path id="Shape_27_copy" data-name="Shape 27 copy" class="cls-4" d="M102.479,197.277v6.665"/>
+        <path id="Shape_27_copy_2" data-name="Shape 27 copy 2" class="cls-4" d="M88.02,203.942v6.664"/>
+        <rect id="Rectangle_4_copy" data-name="Rectangle 4 copy" class="cls-7" x="71.344" y="192.844" width="2.219" height="4.437"/>
+        <rect id="Rectangle_4_copy_2" data-name="Rectangle 4 copy 2" class="cls-7" x="85.781" y="199.5" width="2.25" height="4.438"/>
+        <rect id="Rectangle_4_copy_3" data-name="Rectangle 4 copy 3" class="cls-7" x="100.25" y="192.844" width="2.219" height="4.437"/>
+        <path class="cls-4" d="M88.02,238.376v15.551"/>
+      </g>
+      <path class="cls-4" d="M69.112,210.606h5.561"/>
+      <path id="Shape_22_copy" data-name="Shape 22 copy" class="cls-4" d="M99.142,210.606H104.7"/>
+    </g>
+    <g id="fat_pillar" data-name="fat pillar">
+      <path class="cls-6" d="M104.7,252.816h52.275v77.755H104.7V252.816Z"/>
+      <path id="Shape_28_copy_2" data-name="Shape 28 copy 2" class="cls-3" d="M108.04,252.816h50.05v77.755H108.04V252.816Z"/>
+      <path id="Shape_28_copy" data-name="Shape 28 copy" class="cls-4" d="M103.591,252.816h52.275v77.755H103.591V252.816Z"/>
+      <g id="double_window_copy" data-name="double window copy">
+        <path id="Shape_18_copy_4-4" data-name="Shape 18 copy 4" class="cls-5" d="M118.05,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_4-5" data-name="Shape 18 copy 4" class="cls-5" d="M128.06,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_4-6" data-name="Shape 18 copy 4" class="cls-5" d="M138.07,305.023H131.4v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_6" data-name="Shape 18 copy 6" class="cls-5" d="M148.08,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_5-4" data-name="Shape 18 copy 5" class="cls-5" d="M118.05,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_5-5" data-name="Shape 18 copy 5" class="cls-5" d="M128.06,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_5-6" data-name="Shape 18 copy 5" class="cls-5" d="M138.07,311.688H131.4v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_7" data-name="Shape 18 copy 7" class="cls-5" d="M148.08,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      </g>
+      <g id="singl_door_wind" data-name="singl door wind">
+        <path id="Shape_18_copy_3-4" data-name="Shape 18 copy 3" class="cls-5" d="M118.05,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_3-5" data-name="Shape 18 copy 3" class="cls-5" d="M128.06,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_3-6" data-name="Shape 18 copy 3" class="cls-5" d="M138.07,291.694H131.4v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_8" data-name="Shape 18 copy 8" class="cls-5" d="M148.08,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_9" data-name="Shape 18 copy 9" class="cls-5" d="M118.05,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_9-2" data-name="Shape 18 copy 9" class="cls-5" d="M128.06,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_9-3" data-name="Shape 18 copy 9" class="cls-5" d="M138.07,279.475H131.4V272.81s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_9-4" data-name="Shape 18 copy 9" class="cls-5" d="M148.08,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      </g>
+      <g id="triangle_window" data-name="triangle window">
+        <path class="cls-5" d="M105.816,252.816v-4.443h3.336v-5.554h3.337V240.6H113.6v2.221h3.337v5.554h3.336v6.665H105.816v-2.222Z"/>
+        <path id="Shape_29_copy" data-name="Shape 29 copy" class="cls-5" d="M122.5,252.816v-4.443h3.337v-5.554h3.336V240.6h1.112v2.221h3.337v5.554h3.337v6.665H122.5v-2.222Z"/>
+        <path id="Shape_29_copy_2" data-name="Shape 29 copy 2" class="cls-5" d="M139.182,252.816v-4.443h3.337v-5.554h3.337V240.6h1.112v2.221H150.3v5.554h3.337v6.665H139.182v-2.222Z"/>
+      </g>
+      <g id="long_window" data-name="long window">
+        <path class="cls-2" d="M118.05,250.6V230.6h2.224v-6.665H122.5V230.6h2.224v24.437H118.05V250.6Z"/>
+        <path class="cls-2" d="M119.162,236.155h4.449"/>
+        <path id="Shape_30_copy_2" data-name="Shape 30 copy 2" class="cls-2" d="M134.733,250.6V230.6h2.225v-6.665h2.224V230.6h2.225v24.437h-6.674V250.6Z"/>
+        <path id="Shape_1043_copy" data-name="Shape 1043 copy" class="cls-2" d="M135.846,236.155h4.448"/>
+      </g>
+      <g id="lines">
+        <path class="cls-4" d="M103.591,258.37h50.05"/>
+        <path id="Shape_31_copy" data-name="Shape 31 copy" class="cls-4" d="M103.591,263.924h50.05"/>
+        <path id="Shape_31_copy_2" data-name="Shape 31 copy 2" class="cls-4" d="M103.591,315.02h50.05"/>
+      </g>
+      <path id="Shape_19_copy_2" data-name="Shape 19 copy 2" class="cls-5" d="M111.377,330.571v-7.03s3.5-6.643,6.673,0v7.03h-6.673Z"/>
+      <path id="Shape_19_copy_3" data-name="Shape 19 copy 3" class="cls-5" d="M125.836,330.571v-7.03s3.5-6.643,6.673,0v7.03h-6.673Z"/>
+      <path id="Shape_19_copy_4" data-name="Shape 19 copy 4" class="cls-5" d="M140.294,330.571v-7.03s3.5-6.643,6.674,0v7.03h-6.674Z"/>
+    </g>
+    <g id="pillar_1_copy" data-name="pillar 1 copy">
+      <path class="cls-6" d="M873.249,202.831l3.337,5.554v15.551l3.336,3.332,3.337-3.332V216.16l4.449-5.554,4.449,6.665v6.665l3.336,3.332,3.337-3.332V208.385l3.337-5.554,4.449,5.554V330.571H868.8V208.385Z"/>
+      <path id="Shape_16_copy_10" data-name="Shape 16 copy 10" class="cls-3" d="M876.586,202.831l3.336,5.554v15.551l3.337,3.332,3.337-3.332V216.16l4.448-5.554,4.449,6.665v6.665l3.337,3.332,3.337-3.332V208.385l3.336-5.554,4.449,5.554V330.571H872.137V208.385Z"/>
+      <path id="Shape_16_copy_11" data-name="Shape 16 copy 11" class="cls-4" d="M873.249,202.831l3.337,5.554v15.551l3.336,3.332,3.337-3.332V216.16l4.449-5.554,4.449,6.665v6.665l3.336,3.332,3.337-3.332V208.385l3.337-5.554,4.449,5.554V330.571H868.8V208.385Z"/>
+      <path class="cls-4" d="M869.912,219.493h5.561"/>
+      <path id="Shape_23_copy-2" data-name="Shape 23 copy" class="cls-4" d="M899.942,219.493H905.5"/>
+      <path id="Shape_23_copy_2-2" data-name="Shape 23 copy 2" class="cls-4" d="M885.483,218.382h5.561"/>
+      <g>
+        <path class="cls-4" d="M881.034,278.364h-6.673V271.7s3.13-5.47,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy-2" data-name="Shape 18 copy" class="cls-4" d="M889.932,278.364h-6.673V271.7s3.13-5.47,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_2-2" data-name="Shape 18 copy 2" class="cls-4" d="M898.83,278.364h-6.673V271.7s3.13-5.47,6.673,0v6.664Z"/>
+      </g>
+      <g>
+        <path id="Shape_18_copy_3-7" data-name="Shape 18 copy 3" class="cls-4" d="M881.034,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_3-8" data-name="Shape 18 copy 3" class="cls-4" d="M889.932,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_3-9" data-name="Shape 18 copy 3" class="cls-4" d="M898.83,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      </g>
+      <g id="double_window-2" data-name="double window">
+        <path id="Shape_18_copy_4-7" data-name="Shape 18 copy 4" class="cls-4" d="M881.034,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_4-8" data-name="Shape 18 copy 4" class="cls-4" d="M889.932,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_4-9" data-name="Shape 18 copy 4" class="cls-4" d="M898.83,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_5-7" data-name="Shape 18 copy 5" class="cls-4" d="M881.034,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_5-8" data-name="Shape 18 copy 5" class="cls-4" d="M889.932,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_5-9" data-name="Shape 18 copy 5" class="cls-4" d="M898.83,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      </g>
+      <g id="bottom_window-2" data-name="bottom  window">
+        <path class="cls-4" d="M876.586,330.571v-7.03s3.5-6.643,6.673,0v7.03h-6.673Z"/>
+        <path id="Shape_19_copy-2" data-name="Shape 19 copy" class="cls-4" d="M889.932,330.571v-7.03s3.5-6.643,6.674,0v7.03h-6.674Z"/>
+      </g>
+      <g id="quad_window-2" data-name="quad window">
+        <path class="cls-4" d="M878.81,255.038V242.819s3.047-5.573,8.9-5.554,8.9,5.554,8.9,5.554v12.219h-17.8Z"/>
+        <path class="cls-4" d="M869.912,258.37h34.479"/>
+        <path class="cls-4" d="M869.912,263.924h34.479"/>
+        <path class="cls-4" d="M871.024,315.02h33.367"/>
+        <path class="cls-4" d="M874.361,197.277v6.665"/>
+        <path id="Shape_27_copy-2" data-name="Shape 27 copy" class="cls-4" d="M903.279,197.277v6.665"/>
+        <path id="Shape_27_copy_2-2" data-name="Shape 27 copy 2" class="cls-4" d="M888.82,203.942v6.664"/>
+        <rect id="Rectangle_4_copy-2" data-name="Rectangle 4 copy" class="cls-7" x="872.125" y="192.844" width="2.219" height="4.437"/>
+        <rect id="Rectangle_4_copy_2-2" data-name="Rectangle 4 copy 2" class="cls-7" x="886.594" y="199.5" width="2.218" height="4.438"/>
+        <rect id="Rectangle_4_copy_3-2" data-name="Rectangle 4 copy 3" class="cls-7" x="901.062" y="192.844" width="2.219" height="4.437"/>
+        <path class="cls-4" d="M888.82,238.376v15.551"/>
+        <path class="cls-4" d="M879.922,246.152h15.571"/>
+      </g>
+      <path class="cls-4" d="M869.912,210.606h5.561"/>
+      <path id="Shape_22_copy-2" data-name="Shape 22 copy" class="cls-4" d="M899.942,210.606H905.5"/>
+    </g>
+    <g id="pillar_2_copy" data-name="pillar 2 copy">
+      <path class="cls-6" d="M958.89,202.831l3.337,5.554v15.551l3.336,3.332,3.337-3.332V216.16l4.449-5.554,4.449,6.665v6.665l3.336,3.332,3.337-3.332V208.385l3.337-5.554,4.449,5.554V330.571H954.441V208.385Z"/>
+      <path id="Shape_16_copy_8" data-name="Shape 16 copy 8" class="cls-3" d="M963.339,202.831l3.337,5.554v15.551l3.336,3.332,3.337-3.332V216.16l4.449-5.554,4.449,6.665v6.665l3.336,3.332,3.337-3.332V208.385l3.337-5.554,4.449,5.554V330.571H958.89V208.385Z"/>
+      <path id="Shape_16_copy_9" data-name="Shape 16 copy 9" class="cls-4" d="M958.89,202.831l3.337,5.554v15.551l3.336,3.332,3.337-3.332V216.16l4.449-5.554,4.449,6.665v6.665l3.336,3.332,3.337-3.332V208.385l3.337-5.554,4.449,5.554V330.571H954.441V208.385Z"/>
+      <path class="cls-4" d="M955.553,219.493h5.561"/>
+      <path id="Shape_23_copy-3" data-name="Shape 23 copy" class="cls-4" d="M985.583,219.493h5.561"/>
+      <path id="Shape_23_copy_2-3" data-name="Shape 23 copy 2" class="cls-4" d="M971.124,218.382h5.562"/>
+      <g>
+        <path class="cls-4" d="M966.676,278.364H960V271.7s3.13-5.47,6.674,0v6.664Z"/>
+        <path id="Shape_18_copy-3" data-name="Shape 18 copy" class="cls-4" d="M975.573,278.364H968.9V271.7s3.13-5.47,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_2-3" data-name="Shape 18 copy 2" class="cls-4" d="M984.471,278.364H977.8V271.7s3.13-5.47,6.673,0v6.664Z"/>
+      </g>
+      <g>
+        <path id="Shape_18_copy_3-10" data-name="Shape 18 copy 3" class="cls-4" d="M966.676,291.694H960v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+        <path id="Shape_18_copy_3-11" data-name="Shape 18 copy 3" class="cls-4" d="M975.573,291.694H968.9v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_3-12" data-name="Shape 18 copy 3" class="cls-4" d="M984.471,291.694H977.8v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      </g>
+      <g id="double_window-3" data-name="double window">
+        <path id="Shape_18_copy_4-10" data-name="Shape 18 copy 4" class="cls-4" d="M966.676,305.023H960v-6.664s3.13-5.471,6.674,0v6.664Z"/>
+        <path id="Shape_18_copy_4-11" data-name="Shape 18 copy 4" class="cls-4" d="M975.573,305.023H968.9v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_4-12" data-name="Shape 18 copy 4" class="cls-4" d="M984.471,305.023H977.8v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_5-10" data-name="Shape 18 copy 5" class="cls-4" d="M966.676,311.688H960v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+        <path id="Shape_18_copy_5-11" data-name="Shape 18 copy 5" class="cls-4" d="M975.573,311.688H968.9v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_5-12" data-name="Shape 18 copy 5" class="cls-4" d="M984.471,311.688H977.8v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      </g>
+      <g id="bottom_window-3" data-name="bottom  window">
+        <path class="cls-4" d="M962.227,330.571v-7.03s3.5-6.643,6.673,0v7.03h-6.673Z"/>
+        <path id="Shape_19_copy-3" data-name="Shape 19 copy" class="cls-4" d="M975.573,330.571v-7.03s3.5-6.643,6.674,0v7.03h-6.674Z"/>
+      </g>
+      <g id="quad_window-3" data-name="quad window">
+        <path class="cls-4" d="M964.451,255.038V242.819s3.047-5.573,8.9-5.554,8.9,5.554,8.9,5.554v12.219h-17.8Z"/>
+        <path class="cls-4" d="M955.553,258.37h34.479"/>
+        <path class="cls-4" d="M955.553,263.924h34.479"/>
+        <path class="cls-4" d="M956.666,315.02h33.366"/>
+        <path class="cls-4" d="M960,197.277v6.665"/>
+        <path id="Shape_27_copy-3" data-name="Shape 27 copy" class="cls-4" d="M988.92,197.277v6.665"/>
+        <path id="Shape_27_copy_2-3" data-name="Shape 27 copy 2" class="cls-4" d="M974.461,203.942v6.664"/>
+        <rect id="Rectangle_4_copy-3" data-name="Rectangle 4 copy" class="cls-7" x="957.781" y="192.844" width="2.219" height="4.437"/>
+        <rect id="Rectangle_4_copy_2-3" data-name="Rectangle 4 copy 2" class="cls-7" x="972.25" y="199.5" width="2.219" height="4.438"/>
+        <rect id="Rectangle_4_copy_3-3" data-name="Rectangle 4 copy 3" class="cls-7" x="986.688" y="192.844" width="2.25" height="4.437"/>
+        <path class="cls-4" d="M974.461,238.376v15.551"/>
+        <path class="cls-4" d="M965.563,246.152h15.571"/>
+      </g>
+      <path class="cls-4" d="M955.553,210.606h5.561"/>
+      <path id="Shape_22_copy_2" data-name="Shape 22 copy 2" class="cls-4" d="M955.553,230.6h34.479"/>
+      <path id="Shape_22_copy-3" data-name="Shape 22 copy" class="cls-4" d="M985.583,210.606h5.561"/>
+    </g>
+    <g id="fat_pillar_copy" data-name="fat pillar copy">
+      <g id="double_window_copy-2" data-name="double window copy">
+        <path id="Shape_18_copy_4-13" data-name="Shape 18 copy 4" class="cls-4" d="M918.85,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_4-14" data-name="Shape 18 copy 4" class="cls-4" d="M928.86,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_4-15" data-name="Shape 18 copy 4" class="cls-4" d="M938.87,305.023H932.2v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_6-2" data-name="Shape 18 copy 6" class="cls-4" d="M948.88,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_5-13" data-name="Shape 18 copy 5" class="cls-4" d="M918.85,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_5-14" data-name="Shape 18 copy 5" class="cls-4" d="M928.86,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_5-15" data-name="Shape 18 copy 5" class="cls-4" d="M938.87,311.688H932.2v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_7-2" data-name="Shape 18 copy 7" class="cls-4" d="M948.88,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      </g>
+      <g id="singl_door_wind-2" data-name="singl door wind">
+        <path id="Shape_18_copy_3-13" data-name="Shape 18 copy 3" class="cls-4" d="M918.85,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_3-14" data-name="Shape 18 copy 3" class="cls-4" d="M928.86,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_3-15" data-name="Shape 18 copy 3" class="cls-4" d="M938.87,291.694H932.2v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_8-2" data-name="Shape 18 copy 8" class="cls-4" d="M948.88,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_9-5" data-name="Shape 18 copy 9" class="cls-4" d="M918.85,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_9-6" data-name="Shape 18 copy 9" class="cls-4" d="M928.86,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_9-7" data-name="Shape 18 copy 9" class="cls-4" d="M938.87,279.475H932.2V272.81s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_9-8" data-name="Shape 18 copy 9" class="cls-4" d="M948.88,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      </g>
+      <g id="triangle_window-2" data-name="triangle window">
+        <path class="cls-4" d="M906.616,252.816v-4.443h3.336v-5.554h3.337V240.6H914.4v2.221h3.337v5.554h3.336v6.665H906.616v-2.222Z"/>
+        <path id="Shape_29_copy-2" data-name="Shape 29 copy" class="cls-4" d="M923.3,252.816v-4.443h3.337v-5.554h3.336V240.6h1.112v2.221h3.337v5.554h3.337v6.665H923.3v-2.222Z"/>
+        <path id="Shape_29_copy_2-2" data-name="Shape 29 copy 2" class="cls-4" d="M939.982,252.816v-4.443h3.337v-5.554h3.337V240.6h1.112v2.221H951.1v5.554h3.337v6.665H939.982v-2.222Z"/>
+      </g>
+      <g id="long_window-2" data-name="long window">
+        <path class="cls-4" d="M918.85,250.6V231.711h2.224v-4.443H923.3v4.443h2.224v21.1H918.85V250.6Z"/>
+        <path id="Shape_30_copy" data-name="Shape 30 copy" class="cls-4" d="M935.533,250.6V231.711h2.225v-4.443h2.224v4.443h2.225v21.1h-6.674V250.6Z"/>
+      </g>
+      <g id="lines-2" data-name="lines">
+        <path class="cls-4" d="M904.391,258.37h50.05"/>
+        <path id="Shape_31_copy-2" data-name="Shape 31 copy" class="cls-4" d="M904.391,263.924h50.05"/>
+        <path id="Shape_31_copy_2-2" data-name="Shape 31 copy 2" class="cls-4" d="M904.391,315.02h50.05"/>
+      </g>
+      <path id="Shape_19_copy_2-2" data-name="Shape 19 copy 2" class="cls-4" d="M912.177,330.571v-7.03s3.5-6.643,6.673,0v7.03h-6.673Z"/>
+      <path id="Shape_19_copy_3-2" data-name="Shape 19 copy 3" class="cls-4" d="M926.636,330.571v-7.03s3.5-6.643,6.673,0v7.03h-6.673Z"/>
+      <path id="Shape_19_copy_4-2" data-name="Shape 19 copy 4" class="cls-4" d="M941.094,330.571v-7.03s3.5-6.643,6.674,0v7.03h-6.674Z"/>
+    </g>
+    <g id="pillar_2" data-name="pillar 2">
+      <path class="cls-6" d="M159.2,202.831l3.337,5.554v15.551l3.337,3.332,3.336-3.332V216.16l4.449-5.554,4.449,6.665v6.665l3.337,3.332,3.336-3.332V208.385l3.337-5.554,4.449,5.554V330.571H154.753V208.385Z"/>
+      <path id="Shape_16_copy_3" data-name="Shape 16 copy 3" class="cls-3" d="M162.539,202.831l3.337,5.554v15.551l3.336,3.332,3.337-3.332V216.16L177,210.606l4.449,6.665v6.665l3.336,3.332,3.337-3.332V208.385l2.224-5.554,2.225,5.554V330.571H158.09V208.385Z"/>
+      <path id="Shape_16_copy_2" data-name="Shape 16 copy 2" class="cls-4" d="M158.09,202.831l3.337,5.554v15.551l3.336,3.332,3.337-3.332V216.16l4.449-5.554L177,217.271v6.665l3.336,3.332,3.337-3.332V208.385l3.337-5.554,4.449,5.554V330.571H153.641V208.385Z"/>
+      <path class="cls-4" d="M154.753,219.493h5.561"/>
+      <path id="Shape_23_copy-4" data-name="Shape 23 copy" class="cls-4" d="M184.783,219.493h5.561"/>
+      <path id="Shape_23_copy_2-4" data-name="Shape 23 copy 2" class="cls-4" d="M170.324,218.382h5.562"/>
+      <g>
+        <path class="cls-5" d="M165.876,278.364H159.2V271.7s3.13-5.47,6.674,0v6.664Z"/>
+        <path id="Shape_18_copy-4" data-name="Shape 18 copy" class="cls-5" d="M174.773,278.364H168.1V271.7s3.13-5.47,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_2-4" data-name="Shape 18 copy 2" class="cls-5" d="M183.671,278.364H177V271.7s3.13-5.47,6.673,0v6.664Z"/>
+      </g>
+      <g>
+        <path id="Shape_18_copy_3-16" data-name="Shape 18 copy 3" class="cls-5" d="M165.876,291.694H159.2v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+        <path id="Shape_18_copy_3-17" data-name="Shape 18 copy 3" class="cls-5" d="M174.773,291.694H168.1v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_3-18" data-name="Shape 18 copy 3" class="cls-5" d="M183.671,291.694H177v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      </g>
+      <g id="double_window-4" data-name="double window">
+        <path id="Shape_18_copy_4-16" data-name="Shape 18 copy 4" class="cls-5" d="M165.876,305.023H159.2v-6.664s3.13-5.471,6.674,0v6.664Z"/>
+        <path id="Shape_18_copy_4-17" data-name="Shape 18 copy 4" class="cls-5" d="M174.773,305.023H168.1v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_4-18" data-name="Shape 18 copy 4" class="cls-5" d="M183.671,305.023H177v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_5-16" data-name="Shape 18 copy 5" class="cls-5" d="M165.876,311.688H159.2v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+        <path id="Shape_18_copy_5-17" data-name="Shape 18 copy 5" class="cls-5" d="M174.773,311.688H168.1v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_5-18" data-name="Shape 18 copy 5" class="cls-5" d="M183.671,311.688H177v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      </g>
+      <g id="bottom_window-4" data-name="bottom  window">
+        <path class="cls-5" d="M161.427,330.571v-7.03s3.5-6.643,6.673,0v7.03h-6.673Z"/>
+        <path id="Shape_19_copy-4" data-name="Shape 19 copy" class="cls-5" d="M174.773,330.571v-7.03s3.5-6.643,6.674,0v7.03h-6.674Z"/>
+      </g>
+      <g id="quad_window-4" data-name="quad window">
+        <path class="cls-5" d="M163.651,255.038V242.819s3.047-5.573,8.9-5.554,8.9,5.554,8.9,5.554v12.219h-17.8Z"/>
+        <path class="cls-4" d="M154.753,258.37h34.479"/>
+        <path id="Shape_24_copy_2" data-name="Shape 24 copy 2" class="cls-4" d="M154.753,229.49h34.479"/>
+        <path class="cls-4" d="M154.753,263.924h34.479"/>
+        <path class="cls-4" d="M155.866,315.02h33.366"/>
+        <path class="cls-4" d="M159.2,197.277v6.665"/>
+        <path id="Shape_27_copy-4" data-name="Shape 27 copy" class="cls-4" d="M188.12,197.277v6.665"/>
+        <path id="Shape_27_copy_2-4" data-name="Shape 27 copy 2" class="cls-4" d="M173.661,203.942v6.664"/>
+        <rect id="Rectangle_4_copy-4" data-name="Rectangle 4 copy" class="cls-7" x="156.969" y="192.844" width="2.219" height="4.437"/>
+        <rect id="Rectangle_4_copy_2-4" data-name="Rectangle 4 copy 2" class="cls-7" x="171.438" y="199.5" width="2.218" height="4.438"/>
+        <rect id="Rectangle_4_copy_3-4" data-name="Rectangle 4 copy 3" class="cls-7" x="185.906" y="192.844" width="2.219" height="4.437"/>
+        <path class="cls-4" d="M173.661,238.376v15.551"/>
+        <path class="cls-5" d="M164.763,246.152h15.571"/>
+      </g>
+      <path class="cls-4" d="M154.753,210.606h5.561"/>
+      <path id="Shape_22_copy-4" data-name="Shape 22 copy" class="cls-4" d="M184.783,210.606h5.561"/>
+    </g>
+    <g id="R_tower" data-name="R tower">
+      <path id="body" class="cls-6" d="M189.232,251.706h27.806v78.865H189.232V251.706Z"/>
+      <path id="body_copy" data-name="body copy" class="cls-3" d="M193.681,251.706h27.806v78.865H193.681V251.706Z"/>
+      <path id="body_copy_2" data-name="body copy 2" class="cls-4" d="M189.232,251.706h27.806v78.865H189.232V251.706Z"/>
+      <path id="tower" class="cls-4" d="M197.018,251.706v-3.333h3.336V243.93h3.337V240.6H204.8v3.332h3.337v4.443h3.337v5.554H197.018v-2.221Z"/>
+      <g>
+        <g>
+          <path id="Shape_18_copy_10" data-name="Shape 18 copy 10" class="cls-5" d="M201.467,305.023h-6.674v-6.664s3.13-5.471,6.674,0v6.664Z"/>
+          <path id="Shape_18_copy_10-2" data-name="Shape 18 copy 10" class="cls-5" d="M201.467,311.688h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+        </g>
+        <g id="Group_4_copy" data-name="Group 4 copy">
+          <path id="Shape_18_copy_10-3" data-name="Shape 18 copy 10" class="cls-5" d="M211.477,305.023H204.8v-6.664s3.13-5.471,6.674,0v6.664Z"/>
+          <path id="Shape_18_copy_10-4" data-name="Shape 18 copy 10" class="cls-5" d="M211.477,311.688H204.8v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+        </g>
+      </g>
+      <path id="Shape_18_copy_11" data-name="Shape 18 copy 11" class="cls-5" d="M211.477,291.694H204.8v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+      <path id="Shape_18_copy_12" data-name="Shape 18 copy 12" class="cls-5" d="M201.467,291.694h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+      <path id="Shape_18_copy_13" data-name="Shape 18 copy 13" class="cls-5" d="M211.477,279.475H204.8V272.81s3.13-5.47,6.674,0v6.665Z"/>
+      <path id="Shape_18_copy_13-2" data-name="Shape 18 copy 13" class="cls-5" d="M201.467,279.475h-6.674V272.81s3.13-5.47,6.674,0v6.665Z"/>
+      <path class="cls-4" d="M190.344,263.924h24.469"/>
+      <path id="Shape_32_copy" data-name="Shape 32 copy" class="cls-4" d="M190.344,258.37h24.469"/>
+      <path id="Shape_32_copy_2" data-name="Shape 32 copy 2" class="cls-4" d="M190.344,315.02h24.469"/>
+      <path id="Shape_19_copy_5" data-name="Shape 19 copy 5" class="cls-5" d="M200.354,330.571v-7.03s3.5-6.643,6.674,0v7.03h-6.674Z"/>
+    </g>
+    <g id="R_tower_2" data-name="R tower 2">
+      <path id="body-2" data-name="body" class="cls-6" d="M215.926,251.706h27.805v78.865H215.926V251.706Z"/>
+      <path id="body_copy_4" data-name="body copy 4" class="cls-3" d="M220.374,251.706H248.18v78.865H220.374V251.706Z"/>
+      <path id="body_copy_3" data-name="body copy 3" class="cls-4" d="M215.926,251.706h27.805v78.865H215.926V251.706Z"/>
+      <path id="tower-2" data-name="tower" class="cls-4" d="M223.711,251.706v-3.333h3.337V243.93h3.336V240.6H231.5v3.332h3.336v4.443h3.337v5.554H223.711v-2.221Z"/>
+      <g>
+        <g>
+          <path id="Shape_18_copy_10-5" data-name="Shape 18 copy 10" class="cls-5" d="M228.16,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-6" data-name="Shape 18 copy 10" class="cls-5" d="M228.16,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+        <g id="Group_4_copy-2" data-name="Group 4 copy">
+          <path id="Shape_18_copy_10-7" data-name="Shape 18 copy 10" class="cls-5" d="M238.17,305.023H231.5v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-8" data-name="Shape 18 copy 10" class="cls-5" d="M238.17,311.688H231.5v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+      </g>
+      <path id="Shape_18_copy_11-2" data-name="Shape 18 copy 11" class="cls-5" d="M238.17,291.694H231.5v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_12-2" data-name="Shape 18 copy 12" class="cls-5" d="M228.16,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-3" data-name="Shape 18 copy 13" class="cls-5" d="M238.17,279.475H231.5V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-4" data-name="Shape 18 copy 13" class="cls-5" d="M228.16,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path class="cls-4" d="M217.038,263.924h24.469"/>
+      <path id="Shape_32_copy-2" data-name="Shape 32 copy" class="cls-4" d="M217.038,258.37h24.469"/>
+      <path id="Shape_32_copy_2-2" data-name="Shape 32 copy 2" class="cls-4" d="M217.038,315.02h24.469"/>
+      <path id="Shape_19_copy_5-2" data-name="Shape 19 copy 5" class="cls-5" d="M227.048,330.571v-7.03s3.5-6.643,6.673,0v7.03h-6.673Z"/>
+    </g>
+    <g id="R_tower_3" data-name="R tower 3">
+      <path id="body-3" data-name="body" class="cls-6" d="M242.619,251.706h27.8v78.865h-27.8V251.706Z"/>
+      <path id="body_copy_6" data-name="body copy 6" class="cls-3" d="M247.068,251.706h27.8v78.865h-27.8V251.706Z"/>
+      <path id="body_copy_5" data-name="body copy 5" class="cls-4" d="M242.619,251.706h27.8v78.865h-27.8V251.706Z"/>
+      <path id="tower-3" data-name="tower" class="cls-4" d="M250.4,251.706v-3.333h3.337V243.93h3.337V240.6h1.112v3.332h3.337v4.443h3.336v5.554H250.4v-2.221Z"/>
+      <g>
+        <g>
+          <path id="Shape_18_copy_10-9" data-name="Shape 18 copy 10" class="cls-5" d="M254.853,305.023H248.18v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-10" data-name="Shape 18 copy 10" class="cls-5" d="M254.853,311.688H248.18v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+        <g id="Group_4_copy-3" data-name="Group 4 copy">
+          <path id="Shape_18_copy_10-11" data-name="Shape 18 copy 10" class="cls-5" d="M264.863,305.023H258.19v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-12" data-name="Shape 18 copy 10" class="cls-5" d="M264.863,311.688H258.19v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+      </g>
+      <path id="Shape_18_copy_11-3" data-name="Shape 18 copy 11" class="cls-5" d="M264.863,291.694H258.19v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_12-3" data-name="Shape 18 copy 12" class="cls-5" d="M254.853,291.694H248.18v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-5" data-name="Shape 18 copy 13" class="cls-5" d="M264.863,279.475H258.19V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-6" data-name="Shape 18 copy 13" class="cls-5" d="M254.853,279.475H248.18V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path class="cls-4" d="M243.731,263.924H268.2"/>
+      <path id="Shape_32_copy-3" data-name="Shape 32 copy" class="cls-4" d="M243.731,258.37H268.2"/>
+      <path id="Shape_32_copy_2-3" data-name="Shape 32 copy 2" class="cls-4" d="M243.731,315.02H268.2"/>
+      <path id="Shape_19_copy_5-3" data-name="Shape 19 copy 5" class="cls-5" d="M253.741,330.571v-7.03s3.5-6.643,6.673,0v7.03h-6.673Z"/>
+    </g>
+    <g id="R_tower_4" data-name="R tower 4">
+      <path id="body-4" data-name="body" class="cls-6" d="M269.312,251.706h27.806v78.865H269.312V251.706Z"/>
+      <path id="body_copy_8" data-name="body copy 8" class="cls-3" d="M273.761,251.706h27.806v78.865H273.761V251.706Z"/>
+      <path id="body_copy_7" data-name="body copy 7" class="cls-4" d="M269.312,251.706h27.806v78.865H269.312V251.706Z"/>
+      <path id="tower-4" data-name="tower" class="cls-4" d="M277.1,251.706v-3.333h3.336V243.93h3.337V240.6h1.112v3.332h3.337v4.443h3.337v5.554H277.1v-2.221Z"/>
+      <g>
+        <g>
+          <path id="Shape_18_copy_10-13" data-name="Shape 18 copy 10" class="cls-5" d="M281.547,305.023h-6.674v-6.664s3.13-5.471,6.674,0v6.664Z"/>
+          <path id="Shape_18_copy_10-14" data-name="Shape 18 copy 10" class="cls-5" d="M281.547,311.688h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+        </g>
+        <g id="Group_4_copy-4" data-name="Group 4 copy">
+          <path id="Shape_18_copy_10-15" data-name="Shape 18 copy 10" class="cls-5" d="M291.557,305.023h-6.674v-6.664s3.13-5.471,6.674,0v6.664Z"/>
+          <path id="Shape_18_copy_10-16" data-name="Shape 18 copy 10" class="cls-5" d="M291.557,311.688h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+        </g>
+      </g>
+      <path id="Shape_18_copy_11-4" data-name="Shape 18 copy 11" class="cls-5" d="M291.557,291.694h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+      <path id="Shape_18_copy_12-4" data-name="Shape 18 copy 12" class="cls-5" d="M281.547,291.694h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+      <path id="Shape_18_copy_13-7" data-name="Shape 18 copy 13" class="cls-5" d="M291.557,279.475h-6.674V272.81s3.13-5.47,6.674,0v6.665Z"/>
+      <path id="Shape_18_copy_13-8" data-name="Shape 18 copy 13" class="cls-5" d="M281.547,279.475h-6.674V272.81s3.13-5.47,6.674,0v6.665Z"/>
+      <path class="cls-4" d="M270.424,263.924h24.469"/>
+      <path id="Shape_32_copy-4" data-name="Shape 32 copy" class="cls-4" d="M270.424,258.37h24.469"/>
+      <path id="Shape_32_copy_2-4" data-name="Shape 32 copy 2" class="cls-4" d="M270.424,315.02h24.469"/>
+      <path id="Shape_19_copy_5-4" data-name="Shape 19 copy 5" class="cls-5" d="M280.434,330.571v-7.03s3.5-6.643,6.674,0v7.03h-6.674Z"/>
+    </g>
+    <g id="R_tower_5" data-name="R tower 5">
+      <path id="body-5" data-name="body" class="cls-6" d="M296.006,251.706h27.805v78.865H296.006V251.706Z"/>
+      <path id="body_copy_9" data-name="body copy 9" class="cls-3" d="M300.454,251.706H328.26v78.865H300.454V251.706Z"/>
+      <path id="body_copy_10" data-name="body copy 10" class="cls-4" d="M296.006,251.706h27.805v78.865H296.006V251.706Z"/>
+      <path id="tower-5" data-name="tower" class="cls-4" d="M303.791,251.706v-3.333h3.337V243.93h3.336V240.6h1.113v3.332h3.336v4.443h3.337v5.554H303.791v-2.221Z"/>
+      <g>
+        <g>
+          <path id="Shape_18_copy_10-17" data-name="Shape 18 copy 10" class="cls-5" d="M308.24,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-18" data-name="Shape 18 copy 10" class="cls-5" d="M308.24,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+        <g id="Group_4_copy-5" data-name="Group 4 copy">
+          <path id="Shape_18_copy_10-19" data-name="Shape 18 copy 10" class="cls-5" d="M318.25,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-20" data-name="Shape 18 copy 10" class="cls-5" d="M318.25,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+      </g>
+      <path id="Shape_18_copy_11-5" data-name="Shape 18 copy 11" class="cls-5" d="M318.25,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_12-5" data-name="Shape 18 copy 12" class="cls-5" d="M308.24,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-9" data-name="Shape 18 copy 13" class="cls-5" d="M318.25,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-10" data-name="Shape 18 copy 13" class="cls-5" d="M308.24,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path class="cls-4" d="M297.118,263.924h24.469"/>
+      <path id="Shape_32_copy-5" data-name="Shape 32 copy" class="cls-4" d="M297.118,258.37h24.469"/>
+      <path id="Shape_32_copy_2-5" data-name="Shape 32 copy 2" class="cls-4" d="M297.118,315.02h24.469"/>
+      <path id="Shape_19_copy_5-5" data-name="Shape 19 copy 5" class="cls-5" d="M307.128,330.571v-7.03s3.5-6.643,6.673,0v7.03h-6.673Z"/>
+    </g>
+    <g id="R_tower_6" data-name="R tower 6">
+      <path id="body-6" data-name="body" class="cls-6" d="M322.7,251.706H350.5v78.865H322.7V251.706Z"/>
+      <path id="body_copy_11" data-name="body copy 11" class="cls-3" d="M327.148,251.706h27.8v78.865h-27.8V251.706Z"/>
+      <path id="body_copy_12" data-name="body copy 12" class="cls-4" d="M322.7,251.706H350.5v78.865H322.7V251.706Z"/>
+      <path id="tower-6" data-name="tower" class="cls-4" d="M330.484,251.706v-3.333h3.337V243.93h3.337V240.6h1.112v3.332h3.337v4.443h3.336v5.554H330.484v-2.221Z"/>
+      <g>
+        <g>
+          <path id="Shape_18_copy_10-21" data-name="Shape 18 copy 10" class="cls-5" d="M334.933,305.023H328.26v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-22" data-name="Shape 18 copy 10" class="cls-5" d="M334.933,311.688H328.26v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+        <g id="Group_4_copy-6" data-name="Group 4 copy">
+          <path id="Shape_18_copy_10-23" data-name="Shape 18 copy 10" class="cls-5" d="M344.943,305.023H338.27v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-24" data-name="Shape 18 copy 10" class="cls-5" d="M344.943,311.688H338.27v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+      </g>
+      <path id="Shape_18_copy_11-6" data-name="Shape 18 copy 11" class="cls-5" d="M344.943,291.694H338.27v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_12-6" data-name="Shape 18 copy 12" class="cls-5" d="M334.933,291.694H328.26v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-11" data-name="Shape 18 copy 13" class="cls-5" d="M344.943,279.475H338.27V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-12" data-name="Shape 18 copy 13" class="cls-5" d="M334.933,279.475H328.26V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path class="cls-4" d="M323.811,263.924H348.28"/>
+      <path id="Shape_32_copy-6" data-name="Shape 32 copy" class="cls-4" d="M323.811,258.37H348.28"/>
+      <path id="Shape_32_copy_2-6" data-name="Shape 32 copy 2" class="cls-4" d="M323.811,315.02H348.28"/>
+      <path id="Shape_19_copy_5-6" data-name="Shape 19 copy 5" class="cls-5" d="M333.821,330.571v-7.03s3.5-6.643,6.673,0v7.03h-6.673Z"/>
+    </g>
+    <g id="R_tower_7" data-name="R tower 7">
+      <path id="body-7" data-name="body" class="cls-6" d="M349.392,251.706H377.2v78.865H349.392V251.706Z"/>
+      <path id="body_copy_13" data-name="body copy 13" class="cls-3" d="M353.841,251.706h27.806v78.865H353.841V251.706Z"/>
+      <path id="body_copy_14" data-name="body copy 14" class="cls-4" d="M349.392,251.706H377.2v78.865H349.392V251.706Z"/>
+      <path id="tower-7" data-name="tower" class="cls-4" d="M357.178,251.706v-3.333h3.336V243.93h3.337V240.6h1.112v3.332H368.3v4.443h3.337v5.554H357.178v-2.221Z"/>
+      <g>
+        <g>
+          <path id="Shape_18_copy_10-25" data-name="Shape 18 copy 10" class="cls-5" d="M361.627,305.023h-6.674v-6.664s3.13-5.471,6.674,0v6.664Z"/>
+          <path id="Shape_18_copy_10-26" data-name="Shape 18 copy 10" class="cls-5" d="M361.627,311.688h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+        </g>
+        <g id="Group_4_copy-7" data-name="Group 4 copy">
+          <path id="Shape_18_copy_10-27" data-name="Shape 18 copy 10" class="cls-5" d="M371.637,305.023h-6.674v-6.664s3.13-5.471,6.674,0v6.664Z"/>
+          <path id="Shape_18_copy_10-28" data-name="Shape 18 copy 10" class="cls-5" d="M371.637,311.688h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+        </g>
+      </g>
+      <path id="Shape_18_copy_11-7" data-name="Shape 18 copy 11" class="cls-5" d="M371.637,291.694h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+      <path id="Shape_18_copy_12-7" data-name="Shape 18 copy 12" class="cls-5" d="M361.627,291.694h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+      <path id="Shape_18_copy_13-13" data-name="Shape 18 copy 13" class="cls-5" d="M371.637,279.475h-6.674V272.81s3.13-5.47,6.674,0v6.665Z"/>
+      <path id="Shape_18_copy_13-14" data-name="Shape 18 copy 13" class="cls-5" d="M361.627,279.475h-6.674V272.81s3.13-5.47,6.674,0v6.665Z"/>
+      <path class="cls-4" d="M350.5,263.924h24.469"/>
+      <path id="Shape_32_copy-7" data-name="Shape 32 copy" class="cls-4" d="M350.5,258.37h24.469"/>
+      <path id="Shape_32_copy_2-7" data-name="Shape 32 copy 2" class="cls-4" d="M350.5,315.02h24.469"/>
+      <path id="Shape_19_copy_5-7" data-name="Shape 19 copy 5" class="cls-5" d="M360.514,330.571v-7.03s3.5-6.643,6.674,0v7.03h-6.674Z"/>
+    </g>
+    <g id="R_tower_8" data-name="R tower 8">
+      <path id="body-8" data-name="body" class="cls-6" d="M376.086,251.706h27.805v78.865H376.086V251.706Z"/>
+      <path id="body_copy_15" data-name="body copy 15" class="cls-3" d="M380.534,251.706H408.34v78.865H380.534V251.706Z"/>
+      <path id="body_copy_16" data-name="body copy 16" class="cls-4" d="M376.086,251.706h27.805v78.865H376.086V251.706Z"/>
+      <path id="tower-8" data-name="tower" class="cls-4" d="M383.871,251.706v-3.333h3.337V243.93h3.336V240.6h1.113v3.332h3.336v4.443h3.337v5.554H383.871v-2.221Z"/>
+      <g>
+        <g>
+          <path id="Shape_18_copy_10-29" data-name="Shape 18 copy 10" class="cls-5" d="M388.32,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-30" data-name="Shape 18 copy 10" class="cls-5" d="M388.32,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+        <g id="Group_4_copy-8" data-name="Group 4 copy">
+          <path id="Shape_18_copy_10-31" data-name="Shape 18 copy 10" class="cls-5" d="M398.33,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-32" data-name="Shape 18 copy 10" class="cls-5" d="M398.33,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+      </g>
+      <path id="Shape_18_copy_11-8" data-name="Shape 18 copy 11" class="cls-5" d="M398.33,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_12-8" data-name="Shape 18 copy 12" class="cls-5" d="M388.32,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-15" data-name="Shape 18 copy 13" class="cls-5" d="M398.33,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-16" data-name="Shape 18 copy 13" class="cls-5" d="M388.32,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path class="cls-4" d="M377.2,263.924h24.469"/>
+      <path id="Shape_32_copy-8" data-name="Shape 32 copy" class="cls-4" d="M377.2,258.37h24.469"/>
+      <path id="Shape_32_copy_2-8" data-name="Shape 32 copy 2" class="cls-4" d="M377.2,315.02h24.469"/>
+      <path id="Shape_19_copy_5-8" data-name="Shape 19 copy 5" class="cls-5" d="M387.208,330.571v-7.03s3.5-6.643,6.673,0v7.03h-6.673Z"/>
+    </g>
+    <g id="pillar_3" data-name="pillar 3">
+      <path class="cls-6" d="M406.116,202.831l3.336,5.554v15.551l3.337,3.332,3.337-3.332V216.16l4.448-5.554,4.449,6.665v6.665l3.337,3.332,3.337-3.332V208.385l3.336-5.554,4.449,5.554V330.571H401.667V208.385Z"/>
+      <path id="Shape_16_copy_5" data-name="Shape 16 copy 5" class="cls-3" d="M410.564,202.831l3.337,5.554v15.551l3.337,3.332,3.336-3.332V216.16l4.449-5.554,4.449,6.665v6.665l3.337,3.332,3.337-3.332V208.385l3.336-5.554,2.225,5.554V330.571H406.116V208.385Z"/>
+      <path id="Shape_16_copy_4" data-name="Shape 16 copy 4" class="cls-4" d="M406.116,202.831l3.336,5.554v15.551l3.337,3.332,3.337-3.332V216.16l4.448-5.554,4.449,6.665v6.665l3.337,3.332,3.337-3.332V208.385l3.336-5.554,4.449,5.554V330.571H401.667V208.385Z"/>
+      <path class="cls-4" d="M402.779,219.493h5.561"/>
+      <path id="Shape_23_copy-5" data-name="Shape 23 copy" class="cls-4" d="M432.809,219.493h5.561"/>
+      <path id="Shape_23_copy_2-5" data-name="Shape 23 copy 2" class="cls-4" d="M418.35,218.382h5.561"/>
+      <g>
+        <path class="cls-5" d="M413.9,278.364h-6.673V271.7s3.13-5.47,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy-5" data-name="Shape 18 copy" class="cls-5" d="M422.8,278.364h-6.673V271.7s3.13-5.47,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_2-5" data-name="Shape 18 copy 2" class="cls-5" d="M431.7,278.364h-6.674V271.7s3.13-5.47,6.674,0v6.664Z"/>
+      </g>
+      <g>
+        <path id="Shape_18_copy_3-19" data-name="Shape 18 copy 3" class="cls-5" d="M413.9,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_3-20" data-name="Shape 18 copy 3" class="cls-5" d="M422.8,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_3-21" data-name="Shape 18 copy 3" class="cls-5" d="M431.7,291.694h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+      </g>
+      <g id="double_window-5" data-name="double window">
+        <path id="Shape_18_copy_4-19" data-name="Shape 18 copy 4" class="cls-5" d="M413.9,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_4-20" data-name="Shape 18 copy 4" class="cls-5" d="M422.8,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_4-21" data-name="Shape 18 copy 4" class="cls-5" d="M431.7,305.023h-6.674v-6.664s3.13-5.471,6.674,0v6.664Z"/>
+        <path id="Shape_18_copy_5-19" data-name="Shape 18 copy 5" class="cls-5" d="M413.9,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_5-20" data-name="Shape 18 copy 5" class="cls-5" d="M422.8,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_5-21" data-name="Shape 18 copy 5" class="cls-5" d="M431.7,311.688h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+      </g>
+      <g id="bottom_window-5" data-name="bottom  window">
+        <path class="cls-5" d="M409.452,330.571v-7.03s3.5-6.643,6.674,0v7.03h-6.674Z"/>
+        <path id="Shape_19_copy-5" data-name="Shape 19 copy" class="cls-5" d="M422.8,330.571v-7.03s3.5-6.643,6.673,0v7.03H422.8Z"/>
+      </g>
+      <g id="quad_window-5" data-name="quad window">
+        <path class="cls-5" d="M411.677,255.038V242.819s3.046-5.573,8.9-5.554,8.9,5.554,8.9,5.554v12.219H411.677Z"/>
+        <path class="cls-5" d="M412.789,246.152H428.36"/>
+      </g>
+      <g>
+        <path class="cls-4" d="M402.779,258.37h34.479"/>
+        <path id="Shape_24_copy-2" data-name="Shape 24 copy" class="cls-4" d="M402.779,230.6h34.479"/>
+        <path class="cls-4" d="M402.779,263.924h34.479"/>
+        <path class="cls-4" d="M403.891,315.02h33.367"/>
+        <path class="cls-4" d="M407.228,197.277v6.665"/>
+        <path id="Shape_27_copy-5" data-name="Shape 27 copy" class="cls-4" d="M436.146,197.277v6.665"/>
+        <path id="Shape_27_copy_2-5" data-name="Shape 27 copy 2" class="cls-4" d="M421.687,203.942v6.664"/>
+        <rect id="Rectangle_4_copy-5" data-name="Rectangle 4 copy" class="cls-7" x="405" y="192.844" width="2.219" height="4.437"/>
+        <rect id="Rectangle_4_copy_2-5" data-name="Rectangle 4 copy 2" class="cls-7" x="419.469" y="199.5" width="2.219" height="4.438"/>
+        <rect id="Rectangle_4_copy_3-5" data-name="Rectangle 4 copy 3" class="cls-7" x="433.906" y="192.844" width="2.25" height="4.437"/>
+        <path class="cls-4" d="M421.687,238.376v15.551"/>
+      </g>
+      <path class="cls-4" d="M402.779,210.606h5.561"/>
+      <path id="Shape_22_copy-5" data-name="Shape 22 copy" class="cls-4" d="M432.809,210.606h5.561"/>
+    </g>
+    <g id="R_tower_9" data-name="R tower 9">
+      <path id="body-9" data-name="body" class="cls-6" d="M437.258,246.152h27.805v84.419H437.258V246.152Z"/>
+      <path id="body_copy_17" data-name="body copy 17" class="cls-3" d="M441.707,246.152h27.805v84.419H441.707V246.152Z"/>
+      <path id="body_copy_18" data-name="body copy 18" class="cls-4" d="M437.258,246.152h27.805v84.419H437.258V246.152Z"/>
+      <path id="tower-9" data-name="tower" class="cls-4" d="M442.819,246.152v-3.333h3.337v-4.443h3.336v-3.332H450.6v3.332h3.337v4.443h3.337v5.554H442.819v-2.221Z"/>
+      <g>
+        <g>
+          <path id="Shape_18_copy_10-33" data-name="Shape 18 copy 10" class="cls-5" d="M449.492,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-34" data-name="Shape 18 copy 10" class="cls-5" d="M449.492,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+        <g id="Group_4_copy-9" data-name="Group 4 copy">
+          <path id="Shape_18_copy_10-35" data-name="Shape 18 copy 10" class="cls-5" d="M459.5,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-36" data-name="Shape 18 copy 10" class="cls-5" d="M459.5,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+      </g>
+      <path id="Shape_18_copy_11-9" data-name="Shape 18 copy 11" class="cls-5" d="M459.5,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_12-9" data-name="Shape 18 copy 12" class="cls-5" d="M449.492,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-17" data-name="Shape 18 copy 13" class="cls-5" d="M459.5,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-18" data-name="Shape 18 copy 13" class="cls-5" d="M449.492,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path class="cls-5" d="M438.37,263.924h24.469"/>
+      <path id="Shape_32_copy-9" data-name="Shape 32 copy" class="cls-5" d="M438.37,251.706h24.469"/>
+      <path class="cls-5" d="M448.38,261.7h-4.449v-4.444s2.026-2.884,4.449,0V261.7Z"/>
+      <path id="Shape_1113_copy" data-name="Shape 1113 copy" class="cls-5" d="M458.39,261.7h-4.449v-4.444s2.026-2.884,4.449,0V261.7Z"/>
+      <path id="Shape_32_copy_2-9" data-name="Shape 32 copy 2" class="cls-5" d="M438.37,315.02h24.469"/>
+      <path id="Shape_19_copy_5-9" data-name="Shape 19 copy 5" class="cls-5" d="M448.38,330.571v-7.03s3.5-6.643,6.673,0v7.03H448.38Z"/>
+    </g>
+    <g id="R_tower_10" data-name="R tower 10">
+      <path id="body-10" data-name="body" class="cls-6" d="M463.951,246.152h27.806v84.419H463.951V246.152Z"/>
+      <path id="body_copy_19" data-name="body copy 19" class="cls-3" d="M468.4,246.152h27.806v84.419H468.4V246.152Z"/>
+      <path id="body_copy_20" data-name="body copy 20" class="cls-4" d="M463.951,246.152h27.806v84.419H463.951V246.152Z"/>
+      <path id="tower-10" data-name="tower" class="cls-4" d="M469.512,246.152v-3.333h3.337v-4.443h3.337v-3.332H477.3v3.332h3.336v4.443h3.337v5.554H469.512v-2.221Z"/>
+      <g>
+        <g>
+          <path id="Shape_18_copy_10-37" data-name="Shape 18 copy 10" class="cls-5" d="M476.186,305.023h-6.674v-6.664s3.13-5.471,6.674,0v6.664Z"/>
+          <path id="Shape_18_copy_10-38" data-name="Shape 18 copy 10" class="cls-5" d="M476.186,311.688h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+        </g>
+        <g id="Group_4_copy-10" data-name="Group 4 copy">
+          <path id="Shape_18_copy_10-39" data-name="Shape 18 copy 10" class="cls-5" d="M486.2,305.023h-6.674v-6.664s3.13-5.471,6.674,0v6.664Z"/>
+          <path id="Shape_18_copy_10-40" data-name="Shape 18 copy 10" class="cls-5" d="M486.2,311.688h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+        </g>
+      </g>
+      <path id="Shape_18_copy_11-10" data-name="Shape 18 copy 11" class="cls-5" d="M486.2,291.694h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+      <path id="Shape_18_copy_12-10" data-name="Shape 18 copy 12" class="cls-5" d="M476.186,291.694h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+      <path id="Shape_18_copy_13-19" data-name="Shape 18 copy 13" class="cls-5" d="M486.2,279.475h-6.674V272.81s3.13-5.47,6.674,0v6.665Z"/>
+      <path id="Shape_18_copy_13-20" data-name="Shape 18 copy 13" class="cls-5" d="M476.186,279.475h-6.674V272.81s3.13-5.47,6.674,0v6.665Z"/>
+      <path class="cls-5" d="M465.063,263.924h24.469"/>
+      <path id="Shape_32_copy-10" data-name="Shape 32 copy" class="cls-5" d="M465.063,251.706h24.469"/>
+      <path class="cls-5" d="M475.073,261.7h-4.449v-4.444s2.027-2.884,4.449,0V261.7Z"/>
+      <path id="Shape_1113_copy-2" data-name="Shape 1113 copy" class="cls-5" d="M485.083,261.7h-4.449v-4.444s2.027-2.884,4.449,0V261.7Z"/>
+      <path id="Shape_32_copy_2-10" data-name="Shape 32 copy 2" class="cls-5" d="M465.063,315.02h24.469"/>
+      <path id="Shape_19_copy_5-10" data-name="Shape 19 copy 5" class="cls-5" d="M475.073,330.571v-7.03s3.5-6.643,6.674,0v7.03h-6.674Z"/>
+    </g>
+    <g id="R_tower_11" data-name="R tower 11">
+      <path id="body-11" data-name="body" class="cls-6" d="M490.644,246.152H518.45v84.419H490.644V246.152Z"/>
+      <path id="body_copy_21" data-name="body copy 21" class="cls-3" d="M495.093,246.152H522.9v84.419H495.093V246.152Z"/>
+      <path id="body_copy_22" data-name="body copy 22" class="cls-4" d="M490.644,246.152H518.45v84.419H490.644V246.152Z"/>
+      <path id="tower-11" data-name="tower" class="cls-4" d="M496.206,246.152v-3.333h3.336v-4.443h3.337v-3.332h1.112v3.332h3.337v4.443h3.336v5.554H496.206v-2.221Z"/>
+      <g>
+        <g>
+          <path id="Shape_18_copy_10-41" data-name="Shape 18 copy 10" class="cls-5" d="M502.879,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-42" data-name="Shape 18 copy 10" class="cls-5" d="M502.879,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+        <g id="Group_4_copy-11" data-name="Group 4 copy">
+          <path id="Shape_18_copy_10-43" data-name="Shape 18 copy 10" class="cls-5" d="M512.889,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-44" data-name="Shape 18 copy 10" class="cls-5" d="M512.889,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+      </g>
+      <path id="Shape_18_copy_11-11" data-name="Shape 18 copy 11" class="cls-5" d="M512.889,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_12-11" data-name="Shape 18 copy 12" class="cls-5" d="M502.879,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-21" data-name="Shape 18 copy 13" class="cls-5" d="M512.889,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-22" data-name="Shape 18 copy 13" class="cls-5" d="M502.879,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path class="cls-5" d="M491.757,263.924h24.469"/>
+      <path id="Shape_32_copy-11" data-name="Shape 32 copy" class="cls-5" d="M491.757,251.706h24.469"/>
+      <path class="cls-5" d="M501.767,261.7h-4.449v-4.444s2.026-2.884,4.449,0V261.7Z"/>
+      <path id="Shape_1113_copy-3" data-name="Shape 1113 copy" class="cls-5" d="M511.777,261.7h-4.449v-4.444s2.026-2.884,4.449,0V261.7Z"/>
+      <path id="Shape_32_copy_2-11" data-name="Shape 32 copy 2" class="cls-5" d="M491.757,315.02h24.469"/>
+      <path id="Shape_19_copy_5-11" data-name="Shape 19 copy 5" class="cls-5" d="M501.767,330.571v-7.03s3.5-6.643,6.673,0v7.03h-6.673Z"/>
+    </g>
+    <g id="R_tower_12" data-name="R tower 12">
+      <path id="body-12" data-name="body" class="cls-6" d="M517.338,246.152h27.805v84.419H517.338V246.152Z"/>
+      <path id="body_copy_23" data-name="body copy 23" class="cls-3" d="M521.787,246.152h27.8v84.419h-27.8V246.152Z"/>
+      <path id="body_copy_24" data-name="body copy 24" class="cls-4" d="M517.338,246.152h27.805v84.419H517.338V246.152Z"/>
+      <path id="tower-12" data-name="tower" class="cls-4" d="M522.9,246.152v-3.333h3.337v-4.443h3.336v-3.332h1.112v3.332h3.337v4.443h3.337v5.554H522.9v-2.221Z"/>
+      <g>
+        <g>
+          <path id="Shape_18_copy_10-45" data-name="Shape 18 copy 10" class="cls-5" d="M529.572,305.023H522.9v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-46" data-name="Shape 18 copy 10" class="cls-5" d="M529.572,311.688H522.9v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+        <g id="Group_4_copy-12" data-name="Group 4 copy">
+          <path id="Shape_18_copy_10-47" data-name="Shape 18 copy 10" class="cls-5" d="M539.582,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-48" data-name="Shape 18 copy 10" class="cls-5" d="M539.582,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+      </g>
+      <path id="Shape_18_copy_11-12" data-name="Shape 18 copy 11" class="cls-5" d="M539.582,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_12-12" data-name="Shape 18 copy 12" class="cls-5" d="M529.572,291.694H522.9v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-23" data-name="Shape 18 copy 13" class="cls-5" d="M539.582,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-24" data-name="Shape 18 copy 13" class="cls-5" d="M529.572,279.475H522.9V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path class="cls-5" d="M518.45,263.924h24.469"/>
+      <path id="Shape_32_copy-12" data-name="Shape 32 copy" class="cls-5" d="M518.45,251.706h24.469"/>
+      <path class="cls-5" d="M528.46,261.7h-4.449v-4.444s2.026-2.884,4.449,0V261.7Z"/>
+      <path id="Shape_1113_copy-4" data-name="Shape 1113 copy" class="cls-5" d="M538.47,261.7h-4.449v-4.444s2.026-2.884,4.449,0V261.7Z"/>
+      <path id="Shape_32_copy_2-12" data-name="Shape 32 copy 2" class="cls-5" d="M518.45,315.02h24.469"/>
+      <path id="Shape_19_copy_5-12" data-name="Shape 19 copy 5" class="cls-5" d="M528.46,330.571v-7.03s3.5-6.643,6.673,0v7.03H528.46Z"/>
+    </g>
+    <g id="R_tower_13" data-name="R tower 13">
+      <path id="body-13" data-name="body" class="cls-6" d="M544.031,246.152h27.806v84.419H544.031V246.152Z"/>
+      <path id="body_copy_25" data-name="body copy 25" class="cls-3" d="M548.48,246.152h27.806v84.419H548.48V246.152Z"/>
+      <path id="body_copy_26" data-name="body copy 26" class="cls-4" d="M544.031,246.152h27.806v84.419H544.031V246.152Z"/>
+      <path id="tower-13" data-name="tower" class="cls-4" d="M549.592,246.152v-3.333h3.337v-4.443h3.337v-3.332h1.112v3.332h3.336v4.443h3.337v5.554H549.592v-2.221Z"/>
+      <g>
+        <g>
+          <path id="Shape_18_copy_10-49" data-name="Shape 18 copy 10" class="cls-5" d="M556.266,305.023h-6.674v-6.664s3.13-5.471,6.674,0v6.664Z"/>
+          <path id="Shape_18_copy_10-50" data-name="Shape 18 copy 10" class="cls-5" d="M556.266,311.688h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+        </g>
+        <g id="Group_4_copy-13" data-name="Group 4 copy">
+          <path id="Shape_18_copy_10-51" data-name="Shape 18 copy 10" class="cls-5" d="M566.276,305.023H559.6v-6.664s3.13-5.471,6.674,0v6.664Z"/>
+          <path id="Shape_18_copy_10-52" data-name="Shape 18 copy 10" class="cls-5" d="M566.276,311.688H559.6v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+        </g>
+      </g>
+      <path id="Shape_18_copy_11-13" data-name="Shape 18 copy 11" class="cls-5" d="M566.276,291.694H559.6v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+      <path id="Shape_18_copy_12-13" data-name="Shape 18 copy 12" class="cls-5" d="M556.266,291.694h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+      <path id="Shape_18_copy_13-25" data-name="Shape 18 copy 13" class="cls-5" d="M566.276,279.475H559.6V272.81s3.13-5.47,6.674,0v6.665Z"/>
+      <path id="Shape_18_copy_13-26" data-name="Shape 18 copy 13" class="cls-5" d="M556.266,279.475h-6.674V272.81s3.13-5.47,6.674,0v6.665Z"/>
+      <path class="cls-5" d="M545.143,263.924h24.469"/>
+      <path id="Shape_32_copy-13" data-name="Shape 32 copy" class="cls-5" d="M545.143,251.706h24.469"/>
+      <path class="cls-5" d="M555.153,261.7H550.7v-4.444s2.027-2.884,4.449,0V261.7Z"/>
+      <path id="Shape_1113_copy-5" data-name="Shape 1113 copy" class="cls-5" d="M565.163,261.7h-4.449v-4.444s2.027-2.884,4.449,0V261.7Z"/>
+      <path id="Shape_32_copy_2-13" data-name="Shape 32 copy 2" class="cls-5" d="M545.143,315.02h24.469"/>
+      <path id="Shape_19_copy_5-13" data-name="Shape 19 copy 5" class="cls-5" d="M555.153,330.571v-7.03s3.5-6.643,6.674,0v7.03h-6.674Z"/>
+    </g>
+    <g id="R_tower_14" data-name="R tower 14">
+      <path id="body-14" data-name="body" class="cls-6" d="M568.5,246.152h27.806v84.419H568.5V246.152Z"/>
+      <path id="body_copy_27" data-name="body copy 27" class="cls-3" d="M572.949,246.152h27.805v84.419H572.949V246.152Z"/>
+      <path id="body_copy_28" data-name="body copy 28" class="cls-4" d="M568.5,246.152h27.806v84.419H568.5V246.152Z"/>
+      <path id="tower-14" data-name="tower" class="cls-4" d="M574.061,246.152v-3.333H577.4v-4.443h3.336v-3.332h1.113v3.332h3.336v4.443h3.337v5.554H574.061v-2.221Z"/>
+      <g>
+        <g>
+          <path id="Shape_18_copy_10-53" data-name="Shape 18 copy 10" class="cls-5" d="M580.734,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-54" data-name="Shape 18 copy 10" class="cls-5" d="M580.734,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+        <g id="Group_4_copy-14" data-name="Group 4 copy">
+          <path id="Shape_18_copy_10-55" data-name="Shape 18 copy 10" class="cls-5" d="M590.744,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-56" data-name="Shape 18 copy 10" class="cls-5" d="M590.744,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+      </g>
+      <path id="Shape_18_copy_11-14" data-name="Shape 18 copy 11" class="cls-5" d="M590.744,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_12-14" data-name="Shape 18 copy 12" class="cls-5" d="M580.734,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-27" data-name="Shape 18 copy 13" class="cls-5" d="M590.744,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-28" data-name="Shape 18 copy 13" class="cls-5" d="M580.734,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path class="cls-5" d="M569.612,263.924h24.469"/>
+      <path id="Shape_32_copy-14" data-name="Shape 32 copy" class="cls-5" d="M569.612,251.706h24.469"/>
+      <path class="cls-5" d="M579.622,261.7h-4.449v-4.444s2.027-2.884,4.449,0V261.7Z"/>
+      <path id="Shape_1113_copy-6" data-name="Shape 1113 copy" class="cls-5" d="M589.632,261.7h-4.449v-4.444s2.027-2.884,4.449,0V261.7Z"/>
+      <path id="Shape_32_copy_2-14" data-name="Shape 32 copy 2" class="cls-5" d="M569.612,315.02h24.469"/>
+      <path id="Shape_19_copy_5-14" data-name="Shape 19 copy 5" class="cls-5" d="M579.622,330.571v-7.03s3.5-6.643,6.674,0v7.03h-6.674Z"/>
+    </g>
+    <g id="R_tower_15" data-name="R tower 15">
+      <path id="body-15" data-name="body" class="cls-6" d="M595.193,246.152H623v84.419H595.193V246.152Z"/>
+      <path id="body_copy_29" data-name="body copy 29" class="cls-3" d="M599.642,246.152h27.806v84.419H599.642V246.152Z"/>
+      <path id="body_copy_30" data-name="body copy 30" class="cls-4" d="M595.193,246.152H623v84.419H595.193V246.152Z"/>
+      <path id="tower-15" data-name="tower" class="cls-4" d="M600.754,246.152v-3.333h3.337v-4.443h3.337v-3.332h1.112v3.332h3.337v4.443h3.336v5.554H600.754v-2.221Z"/>
+      <g>
+        <g>
+          <path id="Shape_18_copy_10-57" data-name="Shape 18 copy 10" class="cls-5" d="M607.428,305.023h-6.674v-6.664s3.13-5.471,6.674,0v6.664Z"/>
+          <path id="Shape_18_copy_10-58" data-name="Shape 18 copy 10" class="cls-5" d="M607.428,311.688h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+        </g>
+        <g id="Group_4_copy-15" data-name="Group 4 copy">
+          <path id="Shape_18_copy_10-59" data-name="Shape 18 copy 10" class="cls-5" d="M617.438,305.023h-6.674v-6.664s3.13-5.471,6.674,0v6.664Z"/>
+          <path id="Shape_18_copy_10-60" data-name="Shape 18 copy 10" class="cls-5" d="M617.438,311.688h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+        </g>
+      </g>
+      <path id="Shape_18_copy_11-15" data-name="Shape 18 copy 11" class="cls-5" d="M617.438,291.694h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+      <path id="Shape_18_copy_12-15" data-name="Shape 18 copy 12" class="cls-5" d="M607.428,291.694h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+      <path id="Shape_18_copy_13-29" data-name="Shape 18 copy 13" class="cls-5" d="M617.438,279.475h-6.674V272.81s3.13-5.47,6.674,0v6.665Z"/>
+      <path id="Shape_18_copy_13-30" data-name="Shape 18 copy 13" class="cls-5" d="M607.428,279.475h-6.674V272.81s3.13-5.47,6.674,0v6.665Z"/>
+      <path class="cls-5" d="M596.306,263.924h24.468"/>
+      <path id="Shape_32_copy-15" data-name="Shape 32 copy" class="cls-5" d="M596.306,251.706h24.468"/>
+      <path class="cls-5" d="M606.316,261.7h-4.449v-4.444s2.026-2.884,4.449,0V261.7Z"/>
+      <path id="Shape_1113_copy-7" data-name="Shape 1113 copy" class="cls-5" d="M616.326,261.7h-4.449v-4.444s2.026-2.884,4.449,0V261.7Z"/>
+      <path id="Shape_32_copy_2-15" data-name="Shape 32 copy 2" class="cls-5" d="M596.306,315.02h24.468"/>
+      <path id="Shape_19_copy_5-15" data-name="Shape 19 copy 5" class="cls-5" d="M606.316,330.571v-7.03s3.5-6.643,6.673,0v7.03h-6.673Z"/>
+    </g>
+    <g id="pillar_4" data-name="pillar 4">
+      <path class="cls-6" d="M625.223,202.831l3.337,5.554v15.551l3.337,3.332,3.336-3.332V216.16l4.449-5.554,4.449,6.665v6.665l3.337,3.332,3.336-3.332V208.385l3.337-5.554,4.449,5.554V330.571H620.774V208.385Z"/>
+      <path id="Shape_16_copy_6" data-name="Shape 16 copy 6" class="cls-3" d="M629.672,202.831l3.337,5.554v15.551l3.337,3.332,3.336-3.332V216.16l4.449-5.554,4.449,6.665v6.665l3.337,3.332,3.336-3.332V208.385l3.337-5.554,2.224,5.554V330.571H625.223V208.385Z"/>
+      <path id="Shape_16_copy_7" data-name="Shape 16 copy 7" class="cls-4" d="M625.223,202.831l3.337,5.554v15.551l3.337,3.332,3.336-3.332V216.16l4.449-5.554,4.449,6.665v6.665l3.337,3.332,3.336-3.332V208.385l3.337-5.554,4.449,5.554V330.571H620.774V208.385Z"/>
+      <path class="cls-4" d="M621.887,219.493h5.561"/>
+      <path id="Shape_23_copy-6" data-name="Shape 23 copy" class="cls-4" d="M651.917,219.493h5.561"/>
+      <path id="Shape_23_copy_2-6" data-name="Shape 23 copy 2" class="cls-4" d="M637.458,218.382h5.561"/>
+      <g>
+        <path class="cls-5" d="M633.009,278.364h-6.673V271.7s3.13-5.47,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy-6" data-name="Shape 18 copy" class="cls-5" d="M641.907,278.364h-6.674V271.7s3.13-5.47,6.674,0v6.664Z"/>
+        <path id="Shape_18_copy_2-6" data-name="Shape 18 copy 2" class="cls-5" d="M650.8,278.364h-6.673V271.7s3.13-5.47,6.673,0v6.664Z"/>
+      </g>
+      <g>
+        <path id="Shape_18_copy_3-22" data-name="Shape 18 copy 3" class="cls-5" d="M633.009,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_3-23" data-name="Shape 18 copy 3" class="cls-5" d="M641.907,291.694h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+        <path id="Shape_18_copy_3-24" data-name="Shape 18 copy 3" class="cls-5" d="M650.8,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      </g>
+      <g id="double_window-6" data-name="double window">
+        <path id="Shape_18_copy_4-22" data-name="Shape 18 copy 4" class="cls-5" d="M633.009,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_4-23" data-name="Shape 18 copy 4" class="cls-5" d="M641.907,305.023h-6.674v-6.664s3.13-5.471,6.674,0v6.664Z"/>
+        <path id="Shape_18_copy_4-24" data-name="Shape 18 copy 4" class="cls-5" d="M650.8,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+        <path id="Shape_18_copy_5-22" data-name="Shape 18 copy 5" class="cls-5" d="M633.009,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        <path id="Shape_18_copy_5-23" data-name="Shape 18 copy 5" class="cls-5" d="M641.907,311.688h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+        <path id="Shape_18_copy_5-24" data-name="Shape 18 copy 5" class="cls-5" d="M650.8,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      </g>
+      <g id="bottom_window-6" data-name="bottom  window">
+        <path class="cls-5" d="M628.56,330.571v-7.03s3.5-6.643,6.673,0v7.03H628.56Z"/>
+        <path id="Shape_19_copy-6" data-name="Shape 19 copy" class="cls-5" d="M641.907,330.571v-7.03s3.5-6.643,6.673,0v7.03h-6.673Z"/>
+      </g>
+      <g id="quad_window-6" data-name="quad window">
+        <path class="cls-5" d="M630.784,255.038V242.819s3.047-5.573,8.9-5.554,8.9,5.554,8.9,5.554v12.219h-17.8Z"/>
+        <path class="cls-5" d="M631.9,246.152h15.571"/>
+      </g>
+      <g>
+        <path class="cls-4" d="M621.887,258.37h34.479"/>
+        <path id="Shape_24_copy-3" data-name="Shape 24 copy" class="cls-4" d="M621.887,230.6h34.479"/>
+        <path class="cls-4" d="M621.887,263.924h34.479"/>
+        <path class="cls-4" d="M623,315.02h33.367"/>
+        <path class="cls-4" d="M626.336,197.277v6.665"/>
+        <path id="Shape_27_copy-6" data-name="Shape 27 copy" class="cls-4" d="M655.253,197.277v6.665"/>
+        <path id="Shape_27_copy_2-6" data-name="Shape 27 copy 2" class="cls-4" d="M640.794,203.942v6.664"/>
+        <rect id="Rectangle_4_copy-6" data-name="Rectangle 4 copy" class="cls-7" x="624.094" y="192.844" width="2.25" height="4.437"/>
+        <rect id="Rectangle_4_copy_2-6" data-name="Rectangle 4 copy 2" class="cls-7" x="638.562" y="199.5" width="2.219" height="4.438"/>
+        <rect id="Rectangle_4_copy_3-6" data-name="Rectangle 4 copy 3" class="cls-7" x="653.031" y="192.844" width="2.219" height="4.437"/>
+        <path class="cls-4" d="M640.794,238.376v15.551"/>
+      </g>
+      <path class="cls-4" d="M621.887,210.606h5.561"/>
+      <path id="Shape_22_copy-6" data-name="Shape 22 copy" class="cls-4" d="M651.917,210.606h5.561"/>
+    </g>
+    <g id="R_tower_16" data-name="R tower 16">
+      <path id="body-16" data-name="body" class="cls-6" d="M656.366,251.706h27.805v78.865H656.366V251.706Z"/>
+      <path id="body_copy_31" data-name="body copy 31" class="cls-3" d="M660.814,251.706H688.62v78.865H660.814V251.706Z"/>
+      <path id="body_copy_32" data-name="body copy 32" class="cls-4" d="M656.366,251.706h27.805v78.865H656.366V251.706Z"/>
+      <path id="tower-16" data-name="tower" class="cls-4" d="M664.151,251.706v-3.333h3.337V243.93h3.336V240.6h1.113v3.332h3.336v4.443h3.337v5.554H664.151v-2.221Z"/>
+      <g>
+        <g>
+          <path id="Shape_18_copy_10-61" data-name="Shape 18 copy 10" class="cls-5" d="M668.6,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-62" data-name="Shape 18 copy 10" class="cls-5" d="M668.6,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+        <g id="Group_4_copy-16" data-name="Group 4 copy">
+          <path id="Shape_18_copy_10-63" data-name="Shape 18 copy 10" class="cls-5" d="M678.61,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-64" data-name="Shape 18 copy 10" class="cls-5" d="M678.61,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+      </g>
+      <path id="Shape_18_copy_11-16" data-name="Shape 18 copy 11" class="cls-5" d="M678.61,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_12-16" data-name="Shape 18 copy 12" class="cls-5" d="M668.6,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-31" data-name="Shape 18 copy 13" class="cls-5" d="M678.61,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-32" data-name="Shape 18 copy 13" class="cls-5" d="M668.6,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path class="cls-4" d="M657.478,263.924h24.469"/>
+      <path id="Shape_32_copy-16" data-name="Shape 32 copy" class="cls-4" d="M657.478,258.37h24.469"/>
+      <path id="Shape_32_copy_2-16" data-name="Shape 32 copy 2" class="cls-4" d="M657.478,315.02h24.469"/>
+      <path id="Shape_19_copy_5-16" data-name="Shape 19 copy 5" class="cls-5" d="M667.488,330.571v-7.03s3.5-6.643,6.673,0v7.03h-6.673Z"/>
+    </g>
+    <g id="R_tower_17" data-name="R tower 17">
+      <path id="body-17" data-name="body" class="cls-6" d="M683.059,251.706h27.805v78.865H683.059V251.706Z"/>
+      <path id="body_copy_33" data-name="body copy 33" class="cls-3" d="M687.508,251.706h27.8v78.865h-27.8V251.706Z"/>
+      <path id="body_copy_34" data-name="body copy 34" class="cls-4" d="M683.059,251.706h27.805v78.865H683.059V251.706Z"/>
+      <path id="tower-17" data-name="tower" class="cls-4" d="M690.844,251.706v-3.333h3.337V243.93h3.337V240.6h1.112v3.332h3.337v4.443H705.3v5.554H690.844v-2.221Z"/>
+      <g>
+        <g>
+          <path id="Shape_18_copy_10-65" data-name="Shape 18 copy 10" class="cls-5" d="M695.293,305.023H688.62v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-66" data-name="Shape 18 copy 10" class="cls-5" d="M695.293,311.688H688.62v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+        <g id="Group_4_copy-17" data-name="Group 4 copy">
+          <path id="Shape_18_copy_10-67" data-name="Shape 18 copy 10" class="cls-5" d="M705.3,305.023H698.63v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-68" data-name="Shape 18 copy 10" class="cls-5" d="M705.3,311.688H698.63v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+      </g>
+      <path id="Shape_18_copy_11-17" data-name="Shape 18 copy 11" class="cls-5" d="M705.3,291.694H698.63v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_12-17" data-name="Shape 18 copy 12" class="cls-5" d="M695.293,291.694H688.62v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-33" data-name="Shape 18 copy 13" class="cls-5" d="M705.3,279.475H698.63V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-34" data-name="Shape 18 copy 13" class="cls-5" d="M695.293,279.475H688.62V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path class="cls-4" d="M684.171,263.924H708.64"/>
+      <path id="Shape_32_copy-17" data-name="Shape 32 copy" class="cls-4" d="M684.171,258.37H708.64"/>
+      <path id="Shape_32_copy_2-17" data-name="Shape 32 copy 2" class="cls-4" d="M684.171,315.02H708.64"/>
+      <path id="Shape_19_copy_5-17" data-name="Shape 19 copy 5" class="cls-5" d="M694.181,330.571v-7.03s3.5-6.643,6.673,0v7.03h-6.673Z"/>
+    </g>
+    <g id="R_tower_18" data-name="R tower 18">
+      <path id="body-18" data-name="body" class="cls-6" d="M709.752,251.706h27.806v78.865H709.752V251.706Z"/>
+      <path id="body_copy_35" data-name="body copy 35" class="cls-3" d="M714.2,251.706h27.806v78.865H714.2V251.706Z"/>
+      <path id="body_copy_36" data-name="body copy 36" class="cls-4" d="M709.752,251.706h27.806v78.865H709.752V251.706Z"/>
+      <path id="tower-18" data-name="tower" class="cls-4" d="M717.538,251.706v-3.333h3.336V243.93h3.337V240.6h1.112v3.332h3.337v4.443H732v5.554H717.538v-2.221Z"/>
+      <g>
+        <g>
+          <path id="Shape_18_copy_10-69" data-name="Shape 18 copy 10" class="cls-5" d="M721.987,305.023h-6.674v-6.664s3.13-5.471,6.674,0v6.664Z"/>
+          <path id="Shape_18_copy_10-70" data-name="Shape 18 copy 10" class="cls-5" d="M721.987,311.688h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+        </g>
+        <g id="Group_4_copy-18" data-name="Group 4 copy">
+          <path id="Shape_18_copy_10-71" data-name="Shape 18 copy 10" class="cls-5" d="M732,305.023h-6.674v-6.664s3.13-5.471,6.674,0v6.664Z"/>
+          <path id="Shape_18_copy_10-72" data-name="Shape 18 copy 10" class="cls-5" d="M732,311.688h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+        </g>
+      </g>
+      <path id="Shape_18_copy_11-18" data-name="Shape 18 copy 11" class="cls-5" d="M732,291.694h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+      <path id="Shape_18_copy_12-18" data-name="Shape 18 copy 12" class="cls-5" d="M721.987,291.694h-6.674v-6.665s3.13-5.47,6.674,0v6.665Z"/>
+      <path id="Shape_18_copy_13-35" data-name="Shape 18 copy 13" class="cls-5" d="M732,279.475h-6.674V272.81s3.13-5.47,6.674,0v6.665Z"/>
+      <path id="Shape_18_copy_13-36" data-name="Shape 18 copy 13" class="cls-5" d="M721.987,279.475h-6.674V272.81s3.13-5.47,6.674,0v6.665Z"/>
+      <path class="cls-4" d="M710.864,263.924h24.469"/>
+      <path id="Shape_32_copy-18" data-name="Shape 32 copy" class="cls-4" d="M710.864,258.37h24.469"/>
+      <path id="Shape_32_copy_2-18" data-name="Shape 32 copy 2" class="cls-4" d="M710.864,315.02h24.469"/>
+      <path id="Shape_19_copy_5-18" data-name="Shape 19 copy 5" class="cls-5" d="M720.874,330.571v-7.03s3.5-6.643,6.674,0v7.03h-6.674Z"/>
+    </g>
+    <g id="R_tower_19" data-name="R tower 19">
+      <path id="body-19" data-name="body" class="cls-6" d="M736.446,251.706h27.8v78.865h-27.8V251.706Z"/>
+      <path id="body_copy_37" data-name="body copy 37" class="cls-3" d="M740.894,251.706H768.7v78.865H740.894V251.706Z"/>
+      <path id="body_copy_38" data-name="body copy 38" class="cls-4" d="M736.446,251.706h27.8v78.865h-27.8V251.706Z"/>
+      <path id="tower-19" data-name="tower" class="cls-4" d="M744.231,251.706v-3.333h3.337V243.93H750.9V240.6h1.113v3.332h3.336v4.443h3.337v5.554H744.231v-2.221Z"/>
+      <g>
+        <g>
+          <path id="Shape_18_copy_10-73" data-name="Shape 18 copy 10" class="cls-5" d="M748.68,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-74" data-name="Shape 18 copy 10" class="cls-5" d="M748.68,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+        <g id="Group_4_copy-19" data-name="Group 4 copy">
+          <path id="Shape_18_copy_10-75" data-name="Shape 18 copy 10" class="cls-5" d="M758.69,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-76" data-name="Shape 18 copy 10" class="cls-5" d="M758.69,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+      </g>
+      <path id="Shape_18_copy_11-19" data-name="Shape 18 copy 11" class="cls-5" d="M758.69,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_12-19" data-name="Shape 18 copy 12" class="cls-5" d="M748.68,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-37" data-name="Shape 18 copy 13" class="cls-5" d="M758.69,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-38" data-name="Shape 18 copy 13" class="cls-5" d="M748.68,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path class="cls-4" d="M737.558,263.924h24.469"/>
+      <path id="Shape_32_copy-19" data-name="Shape 32 copy" class="cls-4" d="M737.558,258.37h24.469"/>
+      <path id="Shape_32_copy_2-19" data-name="Shape 32 copy 2" class="cls-4" d="M737.558,315.02h24.469"/>
+      <path id="Shape_19_copy_5-19" data-name="Shape 19 copy 5" class="cls-5" d="M747.568,330.571v-7.03s3.5-6.643,6.673,0v7.03h-6.673Z"/>
+    </g>
+    <g id="R_tower_20" data-name="R tower 20">
+      <path id="body-20" data-name="body" class="cls-6" d="M760.914,251.706H788.72v78.865H760.914V251.706Z"/>
+      <path id="body_copy_39" data-name="body copy 39" class="cls-3" d="M765.363,251.706h27.806v78.865H765.363V251.706Z"/>
+      <path id="body_copy_40" data-name="body copy 40" class="cls-4" d="M760.914,251.706H788.72v78.865H760.914V251.706Z"/>
+      <path id="tower-20" data-name="tower" class="cls-4" d="M768.7,251.706v-3.333h3.337V243.93h3.336V240.6h1.113v3.332h3.336v4.443h3.337v5.554H768.7v-2.221Z"/>
+      <g>
+        <g>
+          <path id="Shape_18_copy_10-77" data-name="Shape 18 copy 10" class="cls-5" d="M773.149,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-78" data-name="Shape 18 copy 10" class="cls-5" d="M773.149,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+        <g id="Group_4_copy-20" data-name="Group 4 copy">
+          <path id="Shape_18_copy_10-79" data-name="Shape 18 copy 10" class="cls-5" d="M783.159,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-80" data-name="Shape 18 copy 10" class="cls-5" d="M783.159,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+      </g>
+      <path id="Shape_18_copy_11-20" data-name="Shape 18 copy 11" class="cls-5" d="M783.159,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_12-20" data-name="Shape 18 copy 12" class="cls-5" d="M773.149,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-39" data-name="Shape 18 copy 13" class="cls-5" d="M783.159,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-40" data-name="Shape 18 copy 13" class="cls-5" d="M773.149,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path class="cls-4" d="M762.027,263.924H786.5"/>
+      <path id="Shape_32_copy-20" data-name="Shape 32 copy" class="cls-4" d="M762.027,258.37H786.5"/>
+      <path id="Shape_32_copy_2-20" data-name="Shape 32 copy 2" class="cls-4" d="M762.027,315.02H786.5"/>
+      <path id="Shape_19_copy_5-20" data-name="Shape 19 copy 5" class="cls-5" d="M772.037,330.571v-7.03s3.5-6.643,6.673,0v7.03h-6.673Z"/>
+    </g>
+    <g id="R_tower_21" data-name="R tower 21">
+      <path id="body-21" data-name="body" class="cls-2" d="M787.608,251.706h27.805v78.865H787.608V251.706Z"/>
+      <path id="tower-21" data-name="tower" class="cls-4" d="M795.393,251.706v-3.333h3.337V243.93h3.337V240.6h1.112v3.332h3.337v4.443h3.336v5.554H795.393v-2.221Z"/>
+      <g>
+        <g>
+          <path id="Shape_18_copy_10-81" data-name="Shape 18 copy 10" class="cls-5" d="M799.842,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-82" data-name="Shape 18 copy 10" class="cls-5" d="M799.842,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+        <g id="Group_4_copy-21" data-name="Group 4 copy">
+          <path id="Shape_18_copy_10-83" data-name="Shape 18 copy 10" class="cls-5" d="M809.852,305.023h-6.673v-6.664s3.13-5.471,6.673,0v6.664Z"/>
+          <path id="Shape_18_copy_10-84" data-name="Shape 18 copy 10" class="cls-5" d="M809.852,311.688h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+        </g>
+      </g>
+      <path id="Shape_18_copy_11-21" data-name="Shape 18 copy 11" class="cls-5" d="M809.852,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_12-21" data-name="Shape 18 copy 12" class="cls-5" d="M799.842,291.694h-6.673v-6.665s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-41" data-name="Shape 18 copy 13" class="cls-5" d="M809.852,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path id="Shape_18_copy_13-42" data-name="Shape 18 copy 13" class="cls-5" d="M799.842,279.475h-6.673V272.81s3.13-5.47,6.673,0v6.665Z"/>
+      <path class="cls-4" d="M788.72,263.924h24.469"/>
+      <path id="Shape_32_copy-21" data-name="Shape 32 copy" class="cls-4" d="M788.72,258.37h24.469"/>
+      <path id="Shape_32_copy_2-21" data-name="Shape 32 copy 2" class="cls-4" d="M788.72,315.02h24.469"/>
+      <path id="Shape_19_copy_5-21" data-name="Shape 19 copy 5" class="cls-5" d="M798.73,330.571v-7.03s3.5-6.643,6.673,0v7.03H798.73Z"/>
+    </g>
+    <g id="long_window_R" data-name="long window R">
+      <path id="Shape_30_copy_2-2" data-name="Shape 30 copy 2" class="cls-5" d="M213.7,249.484V229.49h2.225v-6.665h2.224v6.665h2.224v24.437H213.7v-4.443Z"/>
+      <path id="Shape_1043_copy-2" data-name="Shape 1043 copy" class="cls-4" d="M214.813,235.044h4.449"/>
+    </g>
+    <g id="long_window_R_copy" data-name="long window R copy">
+      <path id="Shape_30_copy_2-3" data-name="Shape 30 copy 2" class="cls-5" d="M240.394,249.484V229.49h2.225v-6.665h2.224v6.665h2.225v24.437h-6.674v-4.443Z"/>
+      <path id="Shape_1043_copy-3" data-name="Shape 1043 copy" class="cls-2" d="M241.507,235.044h4.449"/>
+    </g>
+    <g id="long_window_R_copy_2" data-name="long window R copy 2">
+      <path id="Shape_30_copy_2-4" data-name="Shape 30 copy 2" class="cls-5" d="M267.088,249.484V229.49h2.224v-6.665h2.225v6.665h2.224v24.437h-6.673v-4.443Z"/>
+      <path id="Shape_1043_copy-4" data-name="Shape 1043 copy" class="cls-2" d="M268.2,235.044h4.449"/>
+    </g>
+    <g id="long_window_R_copy_3" data-name="long window R copy 3">
+      <path id="Shape_30_copy_2-5" data-name="Shape 30 copy 2" class="cls-5" d="M293.781,249.484V229.49h2.225v-6.665h2.224v6.665h2.224v24.437h-6.673v-4.443Z"/>
+      <path id="Shape_1043_copy-5" data-name="Shape 1043 copy" class="cls-2" d="M294.893,235.044h4.449"/>
+    </g>
+    <g id="long_window_R_copy_4" data-name="long window R copy 4">
+      <path id="Shape_30_copy_2-6" data-name="Shape 30 copy 2" class="cls-5" d="M320.474,249.484V229.49H322.7v-6.665h2.224v6.665h2.225v24.437h-6.674v-4.443Z"/>
+      <path id="Shape_1043_copy-6" data-name="Shape 1043 copy" class="cls-2" d="M321.587,235.044h4.449"/>
+    </g>
+    <g id="long_window_R_copy_5" data-name="long window R copy 5">
+      <path id="Shape_30_copy_2-7" data-name="Shape 30 copy 2" class="cls-5" d="M347.168,249.484V229.49h2.224v-6.665h2.225v6.665h2.224v24.437h-6.673v-4.443Z"/>
+      <path id="Shape_1043_copy-7" data-name="Shape 1043 copy" class="cls-2" d="M348.28,235.044h4.449"/>
+    </g>
+    <g id="long_window_R_copy_6" data-name="long window R copy 6">
+      <path id="Shape_30_copy_2-8" data-name="Shape 30 copy 2" class="cls-5" d="M373.861,249.484V229.49h2.225v-6.665h2.224v6.665h2.224v24.437h-6.673v-4.443Z"/>
+      <path id="Shape_1043_copy-8" data-name="Shape 1043 copy" class="cls-2" d="M374.973,235.044h4.449"/>
+    </g>
+    <g id="long_window_R_copy_7" data-name="long window R copy 7">
+      <path id="Shape_30_copy_2-9" data-name="Shape 30 copy 2" class="cls-5" d="M460.614,243.93V223.936h2.225v-6.665h2.224v6.665h2.225v24.437h-6.674V243.93Z"/>
+      <path id="Shape_1043_copy-9" data-name="Shape 1043 copy" class="cls-2" d="M461.727,229.49h4.449"/>
+    </g>
+    <g id="long_window_R_copy_8" data-name="long window R copy 8">
+      <path id="Shape_30_copy_2-10" data-name="Shape 30 copy 2" class="cls-5" d="M487.308,243.93V223.936h2.224v-6.665h2.225v6.665h2.224v24.437h-6.673V243.93Z"/>
+      <path id="Shape_1043_copy-10" data-name="Shape 1043 copy" class="cls-2" d="M488.42,229.49h4.449"/>
+    </g>
+    <g id="long_window_R_copy_9" data-name="long window R copy 9">
+      <path id="Shape_30_copy_2-11" data-name="Shape 30 copy 2" class="cls-5" d="M514,243.93V223.936h2.225v-6.665h2.224v6.665h2.224v24.437H514V243.93Z"/>
+      <path id="Shape_1043_copy-11" data-name="Shape 1043 copy" class="cls-2" d="M515.113,229.49h4.449"/>
+    </g>
+    <g id="long_window_R_copy_10" data-name="long window R copy 10">
+      <path id="Shape_30_copy_2-12" data-name="Shape 30 copy 2" class="cls-5" d="M540.694,243.93V223.936h2.225v-6.665h2.224v6.665h2.225v24.437h-6.674V243.93Z"/>
+      <path id="Shape_1043_copy-12" data-name="Shape 1043 copy" class="cls-2" d="M541.807,229.49h4.449"/>
+    </g>
+    <g id="long_window_R_copy_11" data-name="long window R copy 11">
+      <path id="Shape_30_copy_2-13" data-name="Shape 30 copy 2" class="cls-5" d="M567.388,243.93V223.936h2.224v-6.665h2.225v6.665h2.224v24.437h-6.673V243.93Z"/>
+      <path id="Shape_1043_copy-13" data-name="Shape 1043 copy" class="cls-2" d="M568.5,229.49h4.449"/>
+    </g>
+    <g id="long_window_R_copy_12" data-name="long window R copy 12">
+      <path id="Shape_30_copy_2-14" data-name="Shape 30 copy 2" class="cls-5" d="M594.081,243.93V223.936h2.225v-6.665h2.224v6.665h2.224v24.437h-6.673V243.93Z"/>
+      <path id="Shape_1043_copy-14" data-name="Shape 1043 copy" class="cls-2" d="M595.193,229.49h4.449"/>
+    </g>
+    <g id="long_window_R_copy_13" data-name="long window R copy 13">
+      <path id="Shape_30_copy_2-15" data-name="Shape 30 copy 2" class="cls-5" d="M681.947,248.373V228.379h2.224v-6.665H686.4v6.665h2.224v24.437h-6.673v-4.443Z"/>
+      <path id="Shape_1043_copy-15" data-name="Shape 1043 copy" class="cls-2" d="M683.059,233.933h4.449"/>
+    </g>
+    <g id="long_window_R_copy_14" data-name="long window R copy 14">
+      <path id="Shape_30_copy_2-16" data-name="Shape 30 copy 2" class="cls-5" d="M708.64,248.373V228.379h2.224v-6.665h2.225v6.665h2.224v24.437H708.64v-4.443Z"/>
+      <path id="Shape_1043_copy-16" data-name="Shape 1043 copy" class="cls-2" d="M709.752,233.933H714.2"/>
+    </g>
+    <g id="long_window_R_copy_15" data-name="long window R copy 15">
+      <path id="Shape_30_copy_2-17" data-name="Shape 30 copy 2" class="cls-5" d="M735.333,248.373V228.379h2.225v-6.665h2.224v6.665h2.225v24.437h-6.674v-4.443Z"/>
+      <path id="Shape_1043_copy-17" data-name="Shape 1043 copy" class="cls-2" d="M736.446,233.933h4.448"/>
+    </g>
+    <g id="long_window_R_copy_16" data-name="long window R copy 16">
+      <path id="Shape_30_copy_2-18" data-name="Shape 30 copy 2" class="cls-5" d="M762.027,248.373V228.379h2.224v-6.665h2.225v6.665H768.7v24.437h-6.673v-4.443Z"/>
+      <path id="Shape_1043_copy-18" data-name="Shape 1043 copy" class="cls-2" d="M763.139,233.933h4.449"/>
+    </g>
+  </g>
+  <g id="ben">
+    <path id="base" class="cls-6" d="M1002.27,100.389h62.28V330.571h-62.28V100.389Z"/>
+    <path id="base_copy" data-name="base copy" class="cls-3" d="M1006.72,100.389H1069V330.571h-62.28V100.389Z"/>
+    <path id="base_copy_2" data-name="base copy 2" class="cls-4" d="M1002.27,100.389h62.28V330.571h-62.28V100.389Z"/>
+    <path class="cls-4" d="M1006.42,100.389V92.07h53.98v9.706h-53.98v-1.387Z"/>
+    <g>
+      <path class="cls-4" d="M1017.49,93.456V99"/>
+      <path id="Shape_1237_copy" data-name="Shape 1237 copy" class="cls-4" d="M1023.03,93.456V99"/>
+      <path id="Shape_1237_copy_2" data-name="Shape 1237 copy 2" class="cls-4" d="M1028.56,93.456V99"/>
+      <path id="Shape_1237_copy_3" data-name="Shape 1237 copy 3" class="cls-4" d="M1034.1,93.456V99"/>
+      <path id="Shape_1237_copy_4" data-name="Shape 1237 copy 4" class="cls-4" d="M1039.64,93.456V99"/>
+      <path id="Shape_1237_copy_5" data-name="Shape 1237 copy 5" class="cls-4" d="M1045.17,93.456V99"/>
+      <path id="Shape_1237_copy_6" data-name="Shape 1237 copy 6" class="cls-4" d="M1050.71,93.456V99"/>
+    </g>
+    <g id="Group_6_copy" data-name="Group 6 copy">
+      <path class="cls-4" d="M1017.49,146.148V151.7"/>
+      <path id="Shape_1237_copy-2" data-name="Shape 1237 copy" class="cls-4" d="M1023.03,146.148V151.7"/>
+      <path id="Shape_1237_copy_2-2" data-name="Shape 1237 copy 2" class="cls-4" d="M1028.56,146.148V151.7"/>
+      <path id="Shape_1237_copy_3-2" data-name="Shape 1237 copy 3" class="cls-4" d="M1034.1,146.148V151.7"/>
+      <path id="Shape_1237_copy_4-2" data-name="Shape 1237 copy 4" class="cls-4" d="M1039.64,146.148V151.7"/>
+      <path id="Shape_1237_copy_5-2" data-name="Shape 1237 copy 5" class="cls-4" d="M1045.17,146.148V151.7"/>
+      <path id="Shape_1237_copy_6-2" data-name="Shape 1237 copy 6" class="cls-4" d="M1050.71,146.148V151.7"/>
+    </g>
+    <g id="Group_6_copy_2" data-name="Group 6 copy 2">
+      <path class="cls-4" d="M1017.49,205.774v5.546"/>
+      <path id="Shape_1237_copy_2-3" data-name="Shape 1237 copy 2" class="cls-4" d="M1028.56,205.774v5.546"/>
+      <path id="Shape_1237_copy_3-3" data-name="Shape 1237 copy 3" class="cls-4" d="M1034.1,205.774v5.546"/>
+      <path id="Shape_1237_copy_8" data-name="Shape 1237 copy 8" class="cls-4" d="M1034.1,269.559v5.547"/>
+      <path id="Shape_1237_copy_9" data-name="Shape 1237 copy 9" class="cls-4" d="M1034.1,290.359V295.9"/>
+      <path id="Shape_1237_copy_4-3" data-name="Shape 1237 copy 4" class="cls-4" d="M1039.64,205.774v5.546"/>
+      <path id="Shape_1237_copy_6-3" data-name="Shape 1237 copy 6" class="cls-4" d="M1052.09,205.774v5.546"/>
+      <path id="Shape_1237_copy_7" data-name="Shape 1237 copy 7" class="cls-4" d="M1017.49,268.173v5.546"/>
+      <path id="Shape_1237_copy_11" data-name="Shape 1237 copy 11" class="cls-4" d="M1017.49,290.359V295.9"/>
+      <path id="Shape_1237_copy_7-2" data-name="Shape 1237 copy 7" class="cls-4" d="M1052.09,268.173v5.546"/>
+      <path id="Shape_1237_copy_10" data-name="Shape 1237 copy 10" class="cls-4" d="M1052.09,290.359V295.9"/>
+    </g>
+    <path class="cls-4" d="M1011.96,93.456V329.185"/>
+    <path class="cls-4" d="M1021.64,153.082v176.1"/>
+    <path id="Shape_1200_copy" data-name="Shape 1200 copy" class="cls-4" d="M1028.56,153.082v176.1"/>
+    <path id="Shape_1200_copy_2" data-name="Shape 1200 copy 2" class="cls-4" d="M1041.02,153.082v176.1"/>
+    <path id="Shape_1200_copy_2-2" data-name="Shape 1200 copy 2" class="cls-4" d="M1047.94,153.082v176.1"/>
+    <g id="clock">
+      <ellipse class="cls-8" cx="1034.105" cy="123.266" rx="18.015" ry="17.328"/>
+      <circle class="cls-7" cx="1033.405" cy="123.266" r="2.095"/>
+      <rect class="cls-7" x="1032.72" y="111.469" width="1.37" height="2.781"/>
+      <rect id="Rectangle_1207_copy" data-name="Rectangle 1207 copy" class="cls-7" x="1032.72" y="132.281" width="1.37" height="2.75"/>
+      <rect id="Rectangle_1207_copy_2" data-name="Rectangle 1207 copy 2" class="cls-7" x="1041.03" y="129.531" width="1.38" height="2.75"/>
+      <rect id="Rectangle_1207_copy_3" data-name="Rectangle 1207 copy 3" class="cls-7" x="1043.78" y="122.562" width="1.38" height="2.782"/>
+      <rect id="Rectangle_1207_copy_6" data-name="Rectangle 1207 copy 6" class="cls-7" x="1025.81" y="129.531" width="1.41" height="2.75"/>
+      <rect id="Rectangle_1207_copy_5" data-name="Rectangle 1207 copy 5" class="cls-7" x="1023.03" y="122.562" width="1.38" height="2.782"/>
+      <rect id="Rectangle_1207_copy_4" data-name="Rectangle 1207 copy 4" class="cls-7" x="1041.03" y="115.625" width="1.38" height="2.781"/>
+      <rect id="Rectangle_1207_copy_7" data-name="Rectangle 1207 copy 7" class="cls-7" x="1025.81" y="115.625" width="1.41" height="2.781"/>
+    </g>
+    <path id="Shape_1219_copy" data-name="Shape 1219 copy" class="cls-3" d="M1014,92V87s10.31-7.147,13.21-16.006l20.66,0.764s1.9,7.713,12.23,14.44L1060,92h-46Z"/>
+    <path id="Shape_1219_copy_2" data-name="Shape 1219 copy 2" class="cls-4" d="M1009.19,93.456v-8.32s9.56-6.394,12.45-15.253h23.53s4.73,11.442,12.46,15.253v8.32h-48.44Z"/>
+    <path class="cls-4" d="M1011.96,79.59V92.07"/>
+    <path id="Shape_1217_copy" data-name="Shape 1217 copy" class="cls-4" d="M1057.63,79.59V92.07"/>
+    <path class="cls-3" d="M1037.44,41.6s-7.41,13.527-11.08,15.253v4.16h20.77v-4.16S1039.24,48.566,1037.44,41.6Z"/>
+    <path id="Shape_1220_copy" data-name="Shape 1220 copy" class="cls-4" d="M1034.1,39.377s-7.41,13.527-11.07,15.253v4.16h20.76V54.63S1035.91,46.344,1034.1,39.377Z"/>
+    <path class="cls-4" d="M1024.41,47.7V69.883"/>
+    <path id="Shape_1221_copy" data-name="Shape 1221 copy" class="cls-4" d="M1045.17,47.7V69.883"/>
+    <path class="cls-4" d="M1029.95,46.31l2.77-22.186s1.38-.276,1.38,0c0.01,1.569,2.77,22.186,2.77,22.186h-6.92Z"/>
+    <path class="cls-4" d="M1023.03,61.563h20.76"/>
+    <g>
+      <path class="cls-4" d="M1028.56,62.95v8.32"/>
+      <path id="Shape_1225_copy" data-name="Shape 1225 copy" class="cls-4" d="M1032.72,62.95v8.32"/>
+      <path id="Shape_1225_copy_2" data-name="Shape 1225 copy 2" class="cls-4" d="M1036.87,62.95v8.32"/>
+      <path id="Shape_1225_copy_3" data-name="Shape 1225 copy 3" class="cls-4" d="M1041.02,62.95v8.32"/>
+    </g>
+    <g id="dot">
+      <rect class="cls-7" x="1027.22" y="76.844" width="2.72" height="2.781"/>
+      <rect id="Rectangle_1229_copy" data-name="Rectangle 1229 copy" class="cls-7" x="1032.72" y="76.844" width="2.78" height="2.781"/>
+      <rect id="Rectangle_1229_copy_2" data-name="Rectangle 1229 copy 2" class="cls-7" x="1038.25" y="76.844" width="2.78" height="2.781"/>
+      <rect id="Rectangle_1229_copy_3" data-name="Rectangle 1229 copy 3" class="cls-7" x="1027.22" y="85.125" width="2.72" height="2.781"/>
+      <rect id="Rectangle_1229_copy_4" data-name="Rectangle 1229 copy 4" class="cls-7" x="1021.66" y="85.125" width="2.75" height="2.781"/>
+      <rect id="Rectangle_1229_copy_3-2" data-name="Rectangle 1229 copy 3" class="cls-7" x="1032.72" y="85.125" width="2.78" height="2.781"/>
+      <rect id="Rectangle_1229_copy_3-3" data-name="Rectangle 1229 copy 3" class="cls-7" x="1038.25" y="85.125" width="2.78" height="2.781"/>
+      <rect id="Rectangle_1229_copy_5" data-name="Rectangle 1229 copy 5" class="cls-7" x="1043.78" y="85.125" width="2.75" height="2.781"/>
+    </g>
+    <path id="Shape_1198_copy" data-name="Shape 1198 copy" class="cls-4" d="M1057.63,93.456V329.185"/>
+    <path class="cls-4" d="M1003.65,144.762h59.52"/>
+    <path id="Shape_1189_copy" data-name="Shape 1189 copy" class="cls-4" d="M1003.65,151.7h59.52"/>
+    <path id="Shape_1189_copy_2" data-name="Shape 1189 copy 2" class="cls-4" d="M1003.65,204.387h59.52"/>
+    <path id="Shape_1189_copy_2-2" data-name="Shape 1189 copy 2" class="cls-4" d="M1003.65,211.32h59.52"/>
+    <path id="Shape_1189_copy_3" data-name="Shape 1189 copy 3" class="cls-4" d="M1003.65,266.786h59.52"/>
+    <path id="Shape_1189_copy_3-2" data-name="Shape 1189 copy 3" class="cls-4" d="M1003.65,273.719h59.52"/>
+    <path id="Shape_1189_copy_4" data-name="Shape 1189 copy 4" class="cls-4" d="M1003.65,288.972h59.52"/>
+    <path id="Shape_1189_copy_4-2" data-name="Shape 1189 copy 4" class="cls-4" d="M1003.65,295.9h59.52"/>
+  </g>
+  <g id="colosseum">
+    <g id="fill_layer" data-name="fill layer">
+      <path class="cls-6" d="M886.6,258.37h71.182v57.761h1.112v25.548H882.147V258.37H886.6Z"/>
+      <path id="Shape_12_copy" data-name="Shape 12 copy" class="cls-3" d="M884.371,258.37h71.182v57.761h1.113v25.548H879.922V258.37h4.449Z"/>
+    </g>
+    <g id="window_row_backside" data-name="window row backside">
+      <path id="Shape_1_copy_8" data-name="Shape 1 copy 8" class="cls-9" d="M931.084,281.7V269.478a8.009,8.009,0,0,1,7.786-5.554s4.861-.2,6.673,5.554v14.44H931.084V281.7Z"/>
+      <path id="Shape_1_copy_9" data-name="Shape 1 copy 9" class="cls-9" d="M909.952,281.7V269.478a8.009,8.009,0,0,1,7.786-5.554s4.86-.2,6.673,5.554v14.44H909.952V281.7Z"/>
+      <path id="Shape_1_copy_10" data-name="Shape 1 copy 10" class="cls-9" d="M889.932,281.7V269.478a8.009,8.009,0,0,1,7.786-5.554s4.86-.2,6.673,5.554v14.44H889.932V281.7Z"/>
+      <path id="Shape_1_copy_11" data-name="Shape 1 copy 11" class="cls-9" d="M931.084,311.688V299.469a8.009,8.009,0,0,1,7.786-5.554s4.861-.205,6.673,5.554V313.91H931.084v-2.222Z"/>
+      <path id="Shape_1_copy_12" data-name="Shape 1 copy 12" class="cls-9" d="M931.084,338.347V326.128a8.009,8.009,0,0,1,7.786-5.554s4.861-.2,6.673,5.554v14.441H931.084v-2.222Z"/>
+      <path id="Shape_1_copy_11-2" data-name="Shape 1 copy 11" class="cls-9" d="M909.952,311.688V299.469a8.009,8.009,0,0,1,7.786-5.554s4.86-.205,6.673,5.554V313.91H909.952v-2.222Z"/>
+    </g>
+    <g id="vertical_lines" data-name="vertical lines">
+      <path class="cls-4" d="M953.329,258.37V281.7"/>
+      <path id="Shape_11_copy" data-name="Shape 11 copy" class="cls-4" d="M953.329,288.362v23.326"/>
+      <path id="Shape_11_copy_2" data-name="Shape 11 copy 2" class="cls-4" d="M953.329,318.353v22.216"/>
+    </g>
+    <g id="free_lines" data-name="free lines">
+      <rect id="Rounded_Rectangle_1_copy_5" data-name="Rounded Rectangle 1 copy 5" class="cls-10" x="788.719" y="311.688" width="170.187" height="7.781" rx="3.5" ry="3.5"/>
+      <rect id="Rounded_Rectangle_1_copy_6" data-name="Rounded Rectangle 1 copy 6" class="cls-10" x="788.719" y="281.688" width="170.187" height="7.812" rx="3.5" ry="3.5"/>
+      <rect id="Rounded_Rectangle_1_copy_7" data-name="Rounded Rectangle 1 copy 7" class="cls-10" x="788.719" y="251.719" width="170.187" height="7.75" rx="3.5" ry="3.5"/>
+      <rect id="Rounded_Rectangle_1_copy_18" data-name="Rounded Rectangle 1 copy 18" class="cls-7" x="786.5" y="311.688" width="170.188" height="7.781" rx="3.5" ry="3.5"/>
+      <rect id="Rounded_Rectangle_1_copy_17" data-name="Rounded Rectangle 1 copy 17" class="cls-7" x="786.5" y="281.688" width="170.188" height="7.812" rx="3.5" ry="3.5"/>
+      <rect id="Rounded_Rectangle_1_copy_8" data-name="Rounded Rectangle 1 copy 8" class="cls-11" x="789.812" y="249.5" width="170.188" height="7.75" rx="3.5" ry="3.5"/>
+      <rect id="Rounded_Rectangle_1_copy_15" data-name="Rounded Rectangle 1 copy 15" class="cls-10" x="786.5" y="251.719" width="170.188" height="7.75" rx="3.5" ry="3.5"/>
+      <rect id="Rounded_Rectangle_1_copy_16" data-name="Rounded Rectangle 1 copy 16" class="cls-7" x="786.5" y="251.719" width="170.188" height="7.75" rx="3.5" ry="3.5"/>
+    </g>
+    <g id="fill_layer-2" data-name="fill layer">
+      <path id="fill_layer-3" data-name="fill layer" class="cls-6" d="M863.239,216.16H759.8V240.6h1.112v33.323h1.113v34.435h1.112v32.213l186.853,1.11L924.411,315.02v-5.554l-23.357-28.88-2.224-7.776-17.8-26.658V240.6h-4.448Z"/>
+      <path id="fill_layer_copy" data-name="fill layer copy" class="cls-6" d="M856.566,216.16H753.129V240.6h1.112v33.323h1.112v34.435h1.113v32.213H942.207L917.738,315.02h-2.225v-5.554l-21.132-28.88h-1.112l-2.225-6.665-16.683-27.769V240.6h-4.449Z"/>
+      <path id="fill_layer_copy_3" data-name="fill layer copy 3" class="cls-3" d="M859.9,216.16H756.466V240.6h1.112v33.323h1.112v34.435H759.8v32.213H945.543L921.074,315.02H918.85v-5.554l-21.132-28.88h-1.112l-2.225-6.665L877.7,246.152V240.6h-4.449Z"/>
+    </g>
+    <g id="side_lines" data-name="side lines">
+      <path class="cls-4" d="M856.566,215.05l14.458,24.437"/>
+      <path class="cls-4" d="M875.473,246.152l16.684,27.769"/>
+      <path class="cls-4" d="M895.493,280.586l20.02,27.77"/>
+      <path class="cls-4" d="M918.85,313.91l23.357,25.548"/>
+    </g>
+    <g id="lines-3" data-name="lines">
+      <path class="cls-12" d="M757,340H952"/>
+      <path class="cls-4" d="M754.241,216.16v23.327"/>
+      <path class="cls-4" d="M755.353,246.152h0v27.769"/>
+      <path class="cls-4" d="M756.466,281.7v26.659"/>
+      <path class="cls-4" d="M757.578,315.02v25.549"/>
+    </g>
+    <g id="frame_lines" data-name="frame lines">
+      <rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-11" x="752.344" y="210.5" width="106.187" height="7.781" rx="3.5" ry="3.5"/>
+      <rect id="Rounded_Rectangle_1_copy_19" data-name="Rounded Rectangle 1 copy 19" class="cls-10" x="755.344" y="209.5" width="106.187" height="7.781" rx="3.5" ry="3.5"/>
+      <rect id="Rounded_Rectangle_1_copy" data-name="Rounded Rectangle 1 copy" class="cls-10" x="755.344" y="239.469" width="124.562" height="7.781" rx="3.5" ry="3.5"/>
+      <rect id="Rounded_Rectangle_1_copy_2" data-name="Rounded Rectangle 1 copy 2" class="cls-10" x="755.344" y="273.938" width="143" height="7.75" rx="3.5" ry="3.5"/>
+      <rect id="Rounded_Rectangle_1_copy_3" data-name="Rounded Rectangle 1 copy 3" class="cls-10" x="755.344" y="308.344" width="165.75" height="7.781" rx="3.5" ry="3.5"/>
+      <rect id="Rounded_Rectangle_1_copy_4" data-name="Rounded Rectangle 1 copy 4" class="cls-7" x="749.781" y="209.5" width="109" height="7.781" rx="3.5" ry="3.5"/>
+      <rect id="Rounded_Rectangle_1_copy_4-2" data-name="Rounded Rectangle 1 copy 4" class="cls-11" x="749.781" y="239.469" width="127.907" height="7.781" rx="3.5" ry="3.5"/>
+      <rect id="Rounded_Rectangle_1_copy_13" data-name="Rounded Rectangle 1 copy 13" class="cls-10" x="755.344" y="239.469" width="127.937" height="7.781" rx="3.5" ry="3.5"/>
+      <rect id="Rounded_Rectangle_1_copy_14" data-name="Rounded Rectangle 1 copy 14" class="cls-7" x="749.781" y="239.469" width="127.907" height="7.781" rx="3.5" ry="3.5"/>
+      <rect id="Rounded_Rectangle_1_copy_4-3" data-name="Rounded Rectangle 1 copy 4" class="cls-11" x="749.781" y="273.938" width="146.813" height="7.75" rx="3.5" ry="3.5"/>
+      <rect id="Rounded_Rectangle_1_copy_11" data-name="Rounded Rectangle 1 copy 11" class="cls-10" x="756.438" y="273.938" width="146.843" height="7.75" rx="3.5" ry="3.5"/>
+      <rect id="Rounded_Rectangle_1_copy_12" data-name="Rounded Rectangle 1 copy 12" class="cls-7" x="749.781" y="273.938" width="146.813" height="7.75" rx="3.5" ry="3.5"/>
+      <rect id="Rounded_Rectangle_1_copy_4-4" data-name="Rounded Rectangle 1 copy 4" class="cls-11" x="749.781" y="308.344" width="170.188" height="7.781" rx="3.5" ry="3.5"/>
+      <rect id="Rounded_Rectangle_1_copy_9" data-name="Rounded Rectangle 1 copy 9" class="cls-10" x="756.438" y="308.344" width="170.187" height="7.781" rx="3.5" ry="3.5"/>
+      <rect id="Rounded_Rectangle_1_copy_10" data-name="Rounded Rectangle 1 copy 10" class="cls-7" x="749.781" y="308.344" width="170.188" height="7.781" rx="3.5" ry="3.5"/>
+    </g>
+    <g id="window_row1" data-name="window row1">
+      <path class="cls-13" d="M764.251,273.032V256.37a8.008,8.008,0,0,1,7.786-5.554s4.86-.205,6.673,5.554v17.773H764.251v-1.111Z"/>
+      <path id="Shape_1_copy" data-name="Shape 1 copy" class="cls-13" d="M787.608,273.032V256.37a8.007,8.007,0,0,1,7.785-5.554s4.861-.205,6.674,5.554v17.773H787.608v-1.111Z"/>
+      <path id="Shape_1_copy_2" data-name="Shape 1 copy 2" class="cls-13" d="M810.964,273.032V256.37a8.009,8.009,0,0,1,7.786-5.554s4.861-.205,6.673,5.554v17.773H810.964v-1.111Z"/>
+      <path id="Shape_1_copy_3" data-name="Shape 1 copy 3" class="cls-13" d="M834.321,273.032V256.37a8.008,8.008,0,0,1,7.786-5.554s4.86-.205,6.673,5.554v17.773H834.321v-1.111Z"/>
+      <path id="Shape_1_copy_4" data-name="Shape 1 copy 4" class="cls-13" d="M857.678,273.032V256.37a8.007,8.007,0,0,1,7.785-5.554s4.861-.205,6.674,5.554v17.773H857.678v-1.111Z"/>
+    </g>
+    <g id="window_row2" data-name="window row2">
+      <path id="Shape_1_copy_5" data-name="Shape 1 copy 5" class="cls-9" d="M764.251,307.466V290.805a8.006,8.006,0,0,1,7.786-5.554s4.86-.2,6.673,5.554v17.772H764.251v-1.111Z"/>
+      <path id="Shape_1_copy_5-2" data-name="Shape 1 copy 5" class="cls-9" d="M787.608,307.466V290.805a8.006,8.006,0,0,1,7.785-5.554s4.861-.2,6.674,5.554v17.772H787.608v-1.111Z"/>
+      <path id="Shape_1_copy_5-3" data-name="Shape 1 copy 5" class="cls-9" d="M810.964,307.466V290.805a8.008,8.008,0,0,1,7.786-5.554s4.861-.2,6.673,5.554v17.772H810.964v-1.111Z"/>
+      <path id="Shape_1_copy_5-4" data-name="Shape 1 copy 5" class="cls-9" d="M834.321,307.466V290.805a8.006,8.006,0,0,1,7.786-5.554s4.86-.2,6.673,5.554v17.772H834.321v-1.111Z"/>
+      <path id="Shape_1_copy_5-5" data-name="Shape 1 copy 5" class="cls-9" d="M857.678,307.466V290.805a8.006,8.006,0,0,1,7.785-5.554s4.861-.2,6.674,5.554v17.772H857.678v-1.111Z"/>
+      <path id="Shape_1_copy_6" data-name="Shape 1 copy 6" class="cls-9" d="M881.034,307.466V290.805a8.008,8.008,0,0,1,7.786-5.554s4.861-.2,6.673,5.554v17.772H881.034v-1.111Z"/>
+    </g>
+    <g id="window_row3" data-name="window row3">
+      <path id="Shape_1_copy_13" data-name="Shape 1 copy 13" class="cls-5" d="M905,324a9.039,9.039,0,0,1,8.289-5.647s4.86-.2,6.673,5.554L920,340H905V324Z"/>
+      <path id="Shape_1_copy_14" data-name="Shape 1 copy 14" class="cls-5" d="M882,324a9.039,9.039,0,0,1,8.289-5.647s4.86-.2,6.673,5.554L897,340H882V324Z"/>
+      <path id="Shape_1_copy_15" data-name="Shape 1 copy 15" class="cls-5" d="M858,324a9.039,9.039,0,0,1,8.289-5.647s4.86-.2,6.673,5.554L873,340H858V324Z"/>
+      <path id="Shape_1_copy_15-2" data-name="Shape 1 copy 15" class="cls-5" d="M835,324a9.039,9.039,0,0,1,8.289-5.647s4.86-.2,6.673,5.554L850,340H835V324Z"/>
+      <path id="Shape_1_copy_16" data-name="Shape 1 copy 16" class="cls-5" d="M812,324a9.039,9.039,0,0,1,8.289-5.647s4.86-.2,6.673,5.554L827,340H812V324Z"/>
+      <path id="Shape_1_copy_16-2" data-name="Shape 1 copy 16" class="cls-5" d="M789,324a9.039,9.039,0,0,1,8.289-5.647s4.86-.2,6.673,5.554L804,340H789V324Z"/>
+      <path id="Shape_1_copy_17" data-name="Shape 1 copy 17" class="cls-5" d="M765,324a9.039,9.039,0,0,1,8.289-5.647s4.86-.2,6.673,5.554L780,340H765V324Z"/>
+    </g>
+    <g id="window_row4" data-name="window row4">
+      <rect class="cls-8" x="759.812" y="226.188" width="5.563" height="8.843"/>
+      <rect id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-8" x="780.938" y="226.188" width="5.562" height="8.843"/>
+      <rect id="Rectangle_1_copy_2" data-name="Rectangle 1 copy 2" class="cls-8" x="802.062" y="226.188" width="5.563" height="8.843"/>
+      <rect id="Rectangle_1_copy_3" data-name="Rectangle 1 copy 3" class="cls-8" x="823.188" y="226.188" width="5.593" height="8.843"/>
+      <rect id="Rectangle_1_copy_4" data-name="Rectangle 1 copy 4" class="cls-8" x="844.312" y="226.188" width="5.594" height="8.843"/>
+      <g id="dot-2" data-name="dot">
+        <rect class="cls-14" x="756.438" y="221.719" width="2.25" height="2.219"/>
+        <rect id="Rectangle_2_copy" data-name="Rectangle 2 copy" class="cls-14" x="762.031" y="221.719" width="2.219" height="2.219"/>
+        <rect id="Rectangle_2_copy_2" data-name="Rectangle 2 copy 2" class="cls-14" x="767.594" y="221.719" width="2.218" height="2.219"/>
+        <rect id="Rectangle_2_copy_3" data-name="Rectangle 2 copy 3" class="cls-14" x="773.125" y="221.719" width="2.25" height="2.219"/>
+        <rect id="Rectangle_2_copy_3-2" data-name="Rectangle 2 copy 3" class="cls-14" x="778.719" y="221.719" width="2.219" height="2.219"/>
+        <rect id="Rectangle_2_copy_4" data-name="Rectangle 2 copy 4" class="cls-14" x="784.281" y="221.719" width="2.219" height="2.219"/>
+        <rect id="Rectangle_2_copy_4-2" data-name="Rectangle 2 copy 4" class="cls-14" x="789.812" y="221.719" width="2.219" height="2.219"/>
+        <rect id="Rectangle_2_copy_4-3" data-name="Rectangle 2 copy 4" class="cls-14" x="795.406" y="221.719" width="2.219" height="2.219"/>
+        <rect id="Rectangle_2_copy_4-4" data-name="Rectangle 2 copy 4" class="cls-14" x="800.969" y="221.719" width="2.219" height="2.219"/>
+        <rect id="Rectangle_2_copy_5" data-name="Rectangle 2 copy 5" class="cls-14" x="806.5" y="221.719" width="2.219" height="2.219"/>
+        <rect id="Rectangle_2_copy_5-2" data-name="Rectangle 2 copy 5" class="cls-14" x="812.094" y="221.719" width="2.218" height="2.219"/>
+        <rect id="Rectangle_2_copy_5-3" data-name="Rectangle 2 copy 5" class="cls-14" x="817.625" y="221.719" width="2.25" height="2.219"/>
+        <rect id="Rectangle_2_copy_5-4" data-name="Rectangle 2 copy 5" class="cls-14" x="823.188" y="221.719" width="2.218" height="2.219"/>
+        <rect id="Rectangle_2_copy_5-5" data-name="Rectangle 2 copy 5" class="cls-14" x="828.781" y="221.719" width="2.219" height="2.219"/>
+        <rect id="Rectangle_2_copy_5-6" data-name="Rectangle 2 copy 5" class="cls-14" x="834.312" y="221.719" width="2.219" height="2.219"/>
+        <rect id="Rectangle_2_copy_5-7" data-name="Rectangle 2 copy 5" class="cls-14" x="839.875" y="221.719" width="2.219" height="2.219"/>
+        <rect id="Rectangle_2_copy_5-8" data-name="Rectangle 2 copy 5" class="cls-14" x="845.469" y="221.719" width="2.219" height="2.219"/>
+        <rect id="Rectangle_2_copy_6" data-name="Rectangle 2 copy 6" class="cls-14" x="851" y="221.719" width="2.219" height="2.219"/>
+      </g>
+    </g>
+  </g>
+  <g id="leaning_" data-name="leaning ">
+    <path id="fill_layer-4" data-name="fill layer" class="cls-6" d="M183.674,355.055L200.4,237.381l8.755-61.587,8.809,1.249,3.908-27.494,44.048,6.246-3.127,22-0.782,5.5,8.81,1.249-3.439,24.194L249.717,333.005,245.809,360.5l-0.469,3.3Z"/>
+    <path id="fill_layer_copy_4" data-name="fill layer copy 4" class="cls-3" d="M190.123,355.055L206.85,237.381l8.755-61.587,8.809,1.249,3.908-27.494L271,155l-3,22-2,6,8.873,0.948-3.336,24.437L253.741,333.9,250.4,360.563Z"/>
+    <path id="fill_layer_copy_2" data-name="fill layer copy 2" class="cls-15" d="M184.562,352.834l16.727-117.675,8.911-62.686,8.809,1.249,3.752-26.394,44.047,6.245-3.126,22-0.626,4.4,8.81,1.249-3.6,25.295L250.605,330.784,246.7,358.278l-0.469,3.3Z"/>
+    <g id="hori_lines" data-name="hori lines">
+      <path id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-6" d="M190.189,313.242l61.667,8.744a4.443,4.443,0,1,1-1.251,8.8l-61.666-8.744A4.443,4.443,0,1,1,190.189,313.242Z"/>
+      <path id="Rounded_Rectangle_2_copy_13" data-name="Rounded Rectangle 2 copy 13" class="cls-3" d="M195.751,313.242l61.666,8.744a4.443,4.443,0,1,1-1.251,8.8L194.5,322.04A4.443,4.443,0,1,1,195.751,313.242Z"/>
+      <path id="Rounded_Rectangle_2_copy" data-name="Rounded Rectangle 2 copy" class="cls-6" d="M194.41,283.549l61.667,8.743a4.443,4.443,0,1,1-1.251,8.8l-61.666-8.743A4.443,4.443,0,1,1,194.41,283.549Z"/>
+      <path id="Rounded_Rectangle_2_copy_12" data-name="Rounded Rectangle 2 copy 12" class="cls-3" d="M201.084,283.549l61.666,8.743a4.443,4.443,0,1,1-1.251,8.8l-61.666-8.743A4.443,4.443,0,1,1,201.084,283.549Z"/>
+      <path id="Rounded_Rectangle_2_copy_2" data-name="Rounded Rectangle 2 copy 2" class="cls-6" d="M198.475,254.955l61.666,8.743a4.443,4.443,0,1,1-1.251,8.8l-61.666-8.743A4.443,4.443,0,1,1,198.475,254.955Z"/>
+      <path id="Rounded_Rectangle_2_copy_11" data-name="Rounded Rectangle 2 copy 11" class="cls-3" d="M204.036,254.955L265.7,263.7a4.443,4.443,0,1,1-1.25,8.8l-61.667-8.743A4.443,4.443,0,1,1,204.036,254.955Z"/>
+      <path id="Rounded_Rectangle_2_copy_3" data-name="Rounded Rectangle 2 copy 3" class="cls-6" d="M202.54,226.361l61.666,8.744a4.443,4.443,0,1,1-1.251,8.8l-61.666-8.744A4.443,4.443,0,1,1,202.54,226.361Z"/>
+      <path id="Rounded_Rectangle_2_copy_10" data-name="Rounded Rectangle 2 copy 10" class="cls-3" d="M209.213,226.361l61.666,8.744a4.443,4.443,0,1,1-1.251,8.8l-61.666-8.744A4.443,4.443,0,1,1,209.213,226.361Z"/>
+      <path id="Rounded_Rectangle_2_copy_4" data-name="Rounded Rectangle 2 copy 4" class="cls-6" d="M206.761,196.668l61.666,8.743a4.443,4.443,0,1,1-1.251,8.8l-61.666-8.743A4.443,4.443,0,1,1,206.761,196.668Z"/>
+      <path id="Rounded_Rectangle_2_copy_9" data-name="Rounded Rectangle 2 copy 9" class="cls-3" d="M213.434,196.668l61.666,8.743a4.443,4.443,0,1,1-1.251,8.8l-61.666-8.743A4.443,4.443,0,1,1,213.434,196.668Z"/>
+      <path id="Rounded_Rectangle_2_copy_5" data-name="Rounded Rectangle 2 copy 5" class="cls-6" d="M213.318,166.974l61.666,8.743a4.444,4.444,0,1,1-1.25,8.8l-61.667-8.744A4.443,4.443,0,1,1,213.318,166.974Z"/>
+      <path id="Rounded_Rectangle_2_copy_8" data-name="Rounded Rectangle 2 copy 8" class="cls-3" d="M216.543,166.974l61.666,8.743a4.444,4.444,0,1,1-1.251,8.8l-61.666-8.744A4.443,4.443,0,1,1,216.543,166.974Z"/>
+      <path id="Rounded_Rectangle_2_copy_6" data-name="Rounded Rectangle 2 copy 6" class="cls-6" d="M225.26,140.729l44.047,6.245a4.444,4.444,0,1,1-1.25,8.8l-44.047-6.246A4.443,4.443,0,1,1,225.26,140.729Z"/>
+      <path id="Rounded_Rectangle_2_copy_14" data-name="Rounded Rectangle 2 copy 14" class="cls-3" d="M229.26,140.729l44.047,6.245a4.444,4.444,0,1,1-1.25,8.8l-44.047-6.246A4.443,4.443,0,1,1,229.26,140.729Z"/>
+      <path id="Rounded_Rectangle_2_copy_7" data-name="Rounded Rectangle 2 copy 7" class="cls-15" d="M190.189,313.242l61.667,8.744a4.443,4.443,0,1,1-1.251,8.8l-61.666-8.744A4.443,4.443,0,1,1,190.189,313.242Z"/>
+      <path id="Rounded_Rectangle_2_copy_7-2" data-name="Rounded Rectangle 2 copy 7" class="cls-15" d="M194.41,283.549l61.667,8.743a4.443,4.443,0,1,1-1.251,8.8l-61.666-8.743A4.443,4.443,0,1,1,194.41,283.549Z"/>
+      <path id="Rounded_Rectangle_2_copy_7-3" data-name="Rounded Rectangle 2 copy 7" class="cls-15" d="M198.475,254.955l61.666,8.743a4.443,4.443,0,1,1-1.251,8.8l-61.666-8.743A4.443,4.443,0,1,1,198.475,254.955Z"/>
+      <path id="Rounded_Rectangle_2_copy_7-4" data-name="Rounded Rectangle 2 copy 7" class="cls-15" d="M202.54,226.361l61.666,8.744a4.443,4.443,0,1,1-1.251,8.8l-61.666-8.744A4.443,4.443,0,1,1,202.54,226.361Z"/>
+      <path id="Rounded_Rectangle_2_copy_7-5" data-name="Rounded Rectangle 2 copy 7" class="cls-15" d="M206.761,196.668l61.666,8.743a4.443,4.443,0,1,1-1.251,8.8l-61.666-8.743A4.443,4.443,0,1,1,206.761,196.668Z"/>
+      <path id="Rounded_Rectangle_2_copy_7-6" data-name="Rounded Rectangle 2 copy 7" class="cls-15" d="M210.981,166.974l61.667,8.743a4.444,4.444,0,1,1-1.251,8.8l-61.666-8.744A4.443,4.443,0,1,1,210.981,166.974Z"/>
+      <path id="Rounded_Rectangle_2_copy_7-7" data-name="Rounded Rectangle 2 copy 7" class="cls-15" d="M223.7,140.729l44.047,6.245a4.444,4.444,0,1,1-1.25,8.8l-44.047-6.246A4.443,4.443,0,1,1,223.7,140.729Z"/>
+    </g>
+    <g id="row1">
+      <path class="cls-16" d="M197.787,353.44l2.345-16.5s2.476-5.135,7.388-4.562c0,0,3.583.79,4.725,6.279l-2.345,16.5Z"/>
+      <path id="Shape_13_copy" data-name="Shape 13 copy" class="cls-16" d="M222.013,356.875l2.345-16.5s2.476-5.135,7.388-4.562c0,0,3.583.79,4.725,6.279l-2.345,16.5Z"/>
+    </g>
+    <g id="row2">
+      <path id="Shape_13_copy_2" data-name="Shape 13 copy 2" class="cls-16" d="M198.7,315.424l1.564-11s2.476-5.134,7.388-4.562c0,0,3.583.791,4.725,6.28l-1.564,11Z"/>
+      <path id="Shape_13_copy_3" data-name="Shape 13 copy 3" class="cls-16" d="M215.215,317.766l1.563-11s2.477-5.134,7.389-4.562c0,0,3.583.791,4.724,6.28l-1.563,11Z"/>
+      <path id="Shape_13_copy_4" data-name="Shape 13 copy 4" class="cls-16" d="M232.834,320.264l1.563-11s2.477-5.134,7.389-4.562c0,0,3.583.791,4.724,6.28l-1.563,11Z"/>
+    </g>
+    <g id="row3">
+      <path id="Shape_13_copy_2-2" data-name="Shape 13 copy 2" class="cls-16" d="M202.918,285.73l1.564-11s2.476-5.135,7.388-4.562c0,0,3.583.79,4.725,6.279l-1.564,11Z"/>
+      <path id="Shape_13_copy_3-2" data-name="Shape 13 copy 3" class="cls-16" d="M219.436,288.072l1.563-11s2.477-5.135,7.389-4.562c0,0,3.583.79,4.724,6.279l-1.563,11Z"/>
+      <path id="Shape_13_copy_4-2" data-name="Shape 13 copy 4" class="cls-16" d="M237.055,290.57l1.563-11s2.477-5.135,7.389-4.562c0,0,3.583.79,4.724,6.279l-1.563,11Z"/>
+    </g>
+    <g id="row4">
+      <path id="Shape_13_copy_2-3" data-name="Shape 13 copy 2" class="cls-16" d="M206.983,257.137l1.563-11s2.476-5.135,7.389-4.562c0,0,3.583.79,4.724,6.28l-1.563,11Z"/>
+      <path id="Shape_13_copy_3-3" data-name="Shape 13 copy 3" class="cls-16" d="M223.5,259.479l1.563-11s2.476-5.135,7.389-4.562c0,0,3.582.79,4.724,6.279l-1.563,11Z"/>
+      <path id="Shape_13_copy_4-3" data-name="Shape 13 copy 4" class="cls-16" d="M241.119,261.977l1.564-11s2.476-5.135,7.388-4.562c0,0,3.583.79,4.725,6.28l-1.564,11Z"/>
+    </g>
+    <g id="row5">
+      <path id="Shape_13_copy_2-4" data-name="Shape 13 copy 2" class="cls-16" d="M211.047,228.543l1.564-11s2.476-5.134,7.388-4.562c0,0,3.583.791,4.725,6.28l-1.564,11Z"/>
+      <path id="Shape_13_copy_3-4" data-name="Shape 13 copy 3" class="cls-16" d="M227.565,230.885l1.563-11s2.477-5.134,7.389-4.562c0,0,3.583.791,4.724,6.28l-1.563,11Z"/>
+      <path id="Shape_13_copy_4-4" data-name="Shape 13 copy 4" class="cls-16" d="M245.184,233.383l1.563-11s2.477-5.134,7.389-4.562c0,0,3.583.791,4.724,6.28l-1.563,11Z"/>
+    </g>
+    <g id="row6">
+      <path id="Shape_13_copy_2-5" data-name="Shape 13 copy 2" class="cls-16" d="M215.268,198.849l1.564-11s2.476-5.135,7.388-4.562c0,0,3.583.79,4.725,6.279l-1.564,11Z"/>
+      <path id="Shape_13_copy_3-5" data-name="Shape 13 copy 3" class="cls-16" d="M231.786,201.191l1.563-11s2.477-5.135,7.389-4.562c0,0,3.583.79,4.724,6.279l-1.563,11Z"/>
+      <path id="Shape_13_copy_4-5" data-name="Shape 13 copy 4" class="cls-16" d="M249.405,203.689l1.563-11s2.477-5.135,7.389-4.562c0,0,3.583.79,4.724,6.279l-1.563,11Z"/>
+    </g>
+    <g id="row7">
+      <path id="Shape_13_copy_3-6" data-name="Shape 13 copy 3" class="cls-16" d="M236.007,171.5l1.563-11s2.477-5.134,7.389-4.562c0,0,3.583.791,4.724,6.28l-1.563,11Z"/>
+      <path class="cls-4" d="M244.476,143.529l2.033-14.3,3.3,0.468L247.78,144Z"/>
+    </g>
+    <g id="bottom">
+      <rect class="cls-11" x="81.344" y="350.562" width="261.375"/>
+    </g>
+  </g>
+  <g id="clouds">
+    <path class="cls-3" d="M396.962,166s3.328-7.942,11.828-4.909c0,0,5.254-21.419,25.628-8.836,0,0,.576-26.214,29.57-27.491,0,0,22.014-.561,28.585,21.6,0,0,18.816,1.718,16.757,19.636H396.962Z"/>
+    <path id="Shape_47_copy" data-name="Shape 47 copy" class="cls-4" d="M394.005,161.09s3.327-7.942,11.828-4.909c0,0,5.254-21.419,25.628-8.836,0,0,.576-26.215,29.57-27.491,0,0,22.014-.561,28.585,21.6,0,0,18.816,1.718,16.757,19.636H394.005Z"/>
+  </g>
+  <g id="cloud2">
+    <path class="cls-3" d="M706.465,104.145s3.328-7.942,11.829-4.909c0,0,5.253-21.419,25.627-8.836,0,0,.576-26.214,29.571-27.491,0,0,22.014-.561,28.584,21.6,0,0,18.816,1.718,16.757,19.636H706.465Z"/>
+    <path id="Shape_47_copy-2" data-name="Shape 47 copy" class="cls-4" d="M703.508,99.236s3.327-7.942,11.828-4.909c0,0,5.254-21.419,25.628-8.836,0,0,.576-26.214,29.57-27.491,0,0,22.014-.562,28.585,21.6,0,0,18.816,1.718,16.757,19.636H703.508Z"/>
+  </g>
+  <g id="paper_rocket" data-name="paper rocket">
+    <path class="cls-3" d="M252.85,68.84L178.161,88.055l17.954,5.694,4.309,22.063,14.363-10.676,10.773,7.829Z"/>
+    <path class="cls-4" d="M194.679,90.19L247.823,66.7"/>
+    <path class="cls-4" d="M198.987,110.829l8.618-12.81L247.823,66.7"/>
+    <path class="cls-4" d="M212.633,102.289l-4.309-3.559"/>
+    <path id="Shape_43_copy" data-name="Shape 43 copy" class="cls-4" d="M250.7,65.993L176.006,85.208,193.96,90.9l4.309,22.062,14.364-10.675,10.772,7.828Z"/>
+  </g>
+  <g id="paper_rocket_copy" data-name="paper rocket copy">
+    <path class="cls-3" d="M888.921,76.2L967.788,96.93l-18.959,6.142-4.55,23.8-15.166-11.517L917.738,123.8Z"/>
+    <path class="cls-4" d="M943.521,103.84l-56.875-23.8"/>
+    <path class="cls-4" d="M938.971,126.105l-9.1-13.82L887.4,80.808"/>
+    <path class="cls-4" d="M924.563,114.589l4.55-3.839"/>
+    <path id="Shape_43_copy-2" data-name="Shape 43 copy" class="cls-4" d="M884.371,77.737l78.867,20.729-18.959,6.142-4.55,23.8-15.166-11.516-11.375,8.445Z"/>
+  </g>
+  <g id="taj_mahal" data-name="taj mahal">
+    <g id="side_tower" data-name="side tower">
+      <g id="tower1">
+        <path class="cls-6" d="M310.464,362.784L313.8,255.038s4.371-5.56,7.786,0l3.336,107.746H310.464Z"/>
+        <path id="Shape_1346_copy_2" data-name="Shape 1346 copy 2" class="cls-3" d="M313.8,362.784l3.337-107.746s4.371-5.56,7.785,0l3.337,107.746H313.8Z"/>
+        <path id="Shape_1346_copy" data-name="Shape 1346 copy" class="cls-18" d="M309.352,361.673l3.337-107.746s4.371-5.56,7.785,0l3.337,107.746H309.352Z"/>
+        <path class="cls-6" d="M303.791,385V360.563H331.6V385"/>
+        <path id="Shape_1347_copy_2" data-name="Shape 1347 copy 2" class="cls-3" d="M307.128,385V360.563h27.805V385"/>
+        <path id="Shape_1347_copy" data-name="Shape 1347 copy" class="cls-18" d="M302.679,383.889V359.452h27.805v24.437"/>
+        <path class="cls-18" d="M312.689,262.813h7.785"/>
+        <path class="cls-18" d="M311.577,296.137h10.01"/>
+        <path class="cls-18" d="M311.577,336.125H322.7"/>
+      </g>
+      <g id="tower2">
+        <path class="cls-6" d="M489.532,362.784l3.337-107.746s4.371-5.56,7.785,0l3.337,107.746H489.532Z"/>
+        <path id="Shape_1346_copy_2-2" data-name="Shape 1346 copy 2" class="cls-3" d="M491.757,362.784l3.336-107.746s4.371-5.56,7.786,0l3.337,107.746H491.757Z"/>
+        <path id="Shape_1346_copy-2" data-name="Shape 1346 copy" class="cls-18" d="M488.42,361.673l3.337-107.746s4.37-5.56,7.785,0l3.337,107.746H488.42Z"/>
+        <path class="cls-6" d="M482.859,385V360.563h27.805V385"/>
+        <path id="Shape_1347_copy_2-2" data-name="Shape 1347 copy 2" class="cls-3" d="M486.2,385V360.563H514V385"/>
+        <path id="Shape_1347_copy-2" data-name="Shape 1347 copy" class="cls-18" d="M481.747,383.889V359.452h27.805v24.437"/>
+        <path class="cls-18" d="M491.757,262.813h7.785"/>
+        <path class="cls-18" d="M490.644,296.137h10.01"/>
+        <path class="cls-18" d="M490.644,336.125h11.123"/>
+      </g>
+    </g>
+    <g id="mahal">
+      <g id="center">
+        <path class="cls-6" d="M334.933,369.449V330.571l18.908-3.332H458.39l18.908,3.332v42.21H334.933v-3.332Z"/>
+        <path id="Shape_1353_copy_2" data-name="Shape 1353 copy 2" class="cls-3" d="M339.382,335.015l18.908-3.333H462.839l16.683,2.222v38.877H339.382V335.015Z"/>
+        <path id="Shape_1353_copy" data-name="Shape 1353 copy" class="cls-18" d="M334.933,369.449V330.571l18.908-3.332H458.39l18.908,3.332v42.21H334.933v-3.332Z"/>
+        <path class="cls-6" d="M380.534,370.56V321.685s-17.36-13.746-7.785-32.213c0,0,7.357-10.126,16.683-14.44,0,0,15.049-10.282,16.684-19.994,0,0,6.955,14.41,15.571,18.883,0,0,17.11,10.434,18.907,17.773,0,0,7.084,17.584-7.785,28.88v52.207H380.534V370.56Z"/>
+        <path id="Shape_1354_copy_2" data-name="Shape 1354 copy 2" class="cls-3" d="M386.1,323.907s-17.361-13.746-7.786-32.213c0,0,7.357-10.126,16.683-14.44,0,0,15.049-10.282,16.684-20,0,0,6.955,14.411,15.571,18.884,0,0,17.11,10.434,18.908,17.772,0,0,5.971,17.584-8.9,28.881V370.56H386.1V323.907Z"/>
+        <path id="Shape_1354_copy" data-name="Shape 1354 copy" class="cls-18" d="M380.534,370.56V321.685s-17.36-13.746-7.785-32.213c0,0,7.357-10.126,16.683-14.44,0,0,15.049-10.282,16.684-19.994,0,0,6.955,14.41,15.571,18.883,0,0,17.11,10.434,18.907,17.773,0,0,7.084,17.584-7.785,28.88v52.207H380.534V370.56Z"/>
+        <path class="cls-18" d="M354.953,328.35v42.21"/>
+        <path class="cls-18" d="M459.5,328.35v42.21"/>
+        <path class="cls-19" d="M392.769,370.56V347.233s1.522-10.04,13.347-10c0,0,11.521-.38,13.346,10v25.548H392.769V370.56Z"/>
+      </g>
+      <path class="cls-18" d="M372.749,309.466h45.6"/>
+      <path class="cls-18" d="M379.422,318.353h53.387"/>
+      <path class="cls-18" d="M291.557,381.668H524.011"/>
+      <path class="cls-18" d="M329.372,371.671H482.859"/>
+      <g id="window_1" data-name="window 1">
+        <path class="cls-19" d="M361.627,348.344h12.234v-8.886s-1.184-5.843-5.561-5.554a6.387,6.387,0,0,0-6.673,4.443v10Z"/>
+        <path id="Shape_1358_copy" data-name="Shape 1358 copy" class="cls-19" d="M361.627,366.117h12.234V357.23s-1.184-5.843-5.561-5.554a6.389,6.389,0,0,0-6.673,4.444v10Z"/>
+      </g>
+      <g id="window_2_" data-name="window 2 ">
+        <path class="cls-19" d="M439.482,348.344h12.235v-8.886s-1.184-5.843-5.561-5.554a6.389,6.389,0,0,0-6.674,4.443v10Z"/>
+        <path id="Shape_1358_copy-2" data-name="Shape 1358 copy" class="cls-19" d="M439.482,366.117h12.235V357.23s-1.184-5.843-5.561-5.554a6.39,6.39,0,0,0-6.674,4.444v10Z"/>
+      </g>
+      <g id="cross_window1" data-name="cross window1">
+        <path class="cls-19" d="M350.5,349.455v-10s-4.737-7.181-8.9,1.111v10Z"/>
+        <path id="Shape_1370_copy" data-name="Shape 1370 copy" class="cls-19" d="M350.5,366.117v-10s-4.737-7.181-8.9,1.11v10Z"/>
+      </g>
+      <g id="cross_window2" data-name="cross window2">
+        <path class="cls-19" d="M471.737,349.455v-10s-4.738-7.181-8.9,1.111v10Z"/>
+        <path id="Shape_1370_copy-2" data-name="Shape 1370 copy" class="cls-19" d="M471.737,366.117v-10s-4.738-7.181-8.9,1.11v10Z"/>
+      </g>
+    </g>
+  </g>
+  <g id="hot_ballon" data-name="hot ballon">
+    <path class="cls-3" d="M338.27,56.207s-27.553,2.94-30.03,31.1c0,0-.431,10.927,10.01,21.105,0,0,10.109,9.9,13.347,16.662,0,0,4.436,11.432,4.449,14.44h6.673s2.872-12.67,5.561-15.551c0,0,7.591-11.856,11.122-14.44A30.99,30.99,0,0,0,369.412,86.2S370.364,58.114,338.27,56.207Z"/>
+    <path id="Shape_1449_copy" data-name="Shape 1449 copy" class="cls-20" d="M333.821,56.207s-27.553,2.94-30.03,31.1c0,0-.431,10.927,10.01,21.105,0,0,10.109,9.9,13.347,16.662,0,0,4.436,11.432,4.449,14.44h6.673s2.872-12.67,5.561-15.551c0,0,7.592-11.856,11.122-14.44A30.99,30.99,0,0,0,364.963,86.2S365.916,58.114,333.821,56.207Z"/>
+    <path class="cls-20" d="M328.26,58.429s-9.187,5.013-12.234,21.1V95.085a37.468,37.468,0,0,0,5.561,14.441s6.971,8.767,7.785,15.551"/>
+    <path id="Shape_1451_copy" data-name="Shape 1451 copy" class="cls-20" d="M342.729,58.051S352,63.074,355.074,79.2V94.781a37.376,37.376,0,0,1-5.612,14.469s-7.034,8.785-7.855,15.582"/>
+    <path class="cls-20" d="M333.821,57.318s-5.14,8.194-5.561,16.662V99.528s1.449,10.282,2.224,12.218c0,0,2.525,9.515,2.225,13.33"/>
+    <path id="Shape_1453_copy" data-name="Shape 1453 copy" class="cls-20" d="M338.27,57.318s5.14,8.194,5.561,16.662V99.528s-1.449,10.282-2.224,12.218c0,0-2.525,9.515-2.225,13.33"/>
+    <path class="cls-20" d="M327.148,125.076h15.571l-2.225,5.554H329.372Z"/>
+    <path class="cls-3" d="M331.6,138.405h13.346v10H331.6v-10"/>
+    <path id="Shape_1456_copy" data-name="Shape 1456 copy" class="cls-20" d="M328.26,138.405h13.347v10H328.26v-10"/>
+  </g>
+  <g id="eiffel">
+    <path class="cls-6" d="M627.448,360.563l25.581-45.543V301.691h5.561l11.122-36.656h-2.224v-5.554h3.336l6.674-87.752h-1.112v-7.776H677.5V158.4h2.224V135.073h3.337V158.4h2.224v5.554H686.4v7.776h-1.113l7.786,87.752h3.337v5.554h-2.225l10.01,36.656h5.561V315.02l26.694,46.653h-109v-1.11"/>
+    <path id="Shape_1409_copy_3" data-name="Shape 1409 copy 3" class="cls-3" d="M631.9,360.563l25.581-45.543V301.691h5.561l11.122-36.656h-2.224v-5.554h3.336l6.674-87.752h-1.113v-7.776h1.113V158.4h2.224V135.073h3.337V158.4h2.224v5.554h1.112v7.776h-1.112l7.786,87.752h3.336v5.554H698.63l10.01,36.656H714.2V315.02l26.693,46.653h-109v-1.11"/>
+    <path class="cls-6" d="M646.356,360.563l8.9-17.773s8.654-16.205,25.581-16.662c0,0,11.565-1.216,26.694,16.662l8.9,17.773h-70.07Z"/>
+    <path id="Shape_1409_copy_2" data-name="Shape 1409 copy 2" class="cls-18" d="M627.448,360.563l25.581-45.543V301.691h5.561l11.122-36.656h-2.224v-5.554h3.336l6.674-87.752h-1.112v-7.776H677.5V158.4h2.224V135.073h3.337V158.4h2.224v5.554H686.4v7.776h-1.113l7.786,87.752h3.337v5.554h-2.225l10.01,36.656h5.561V315.02l26.694,46.653h-109v-1.11"/>
+    <path id="Shape_1409_copy" data-name="Shape 1409 copy" class="cls-18" d="M646.356,359.452L668.6,312.8l2.224-12.219,6.674-36.656,3.336-92.195h-4.448v-7.776H677.5V158.4h2.224V135.073h3.337V158.4h2.224v5.554H686.4v7.776h-4.449l4.449,92.195,5.561,35.545,3.336,15.551,22.245,46.653H644.131Z"/>
+    <rect class="cls-21" x="651.938" y="301.688" width="58.937" height="13.343"/>
+    <path class="cls-18" d="M653.029,307.245h56.723"/>
+    <g id="lines-4" data-name="lines">
+      <path class="cls-18" d="M634.121,349.455H650.8"/>
+      <path class="cls-18" d="M640.794,336.125h16.684"/>
+      <path class="cls-18" d="M647.468,325.017h16.683"/>
+      <path class="cls-18" d="M661.927,292.805h10.01"/>
+      <path class="cls-18" d="M665.263,283.918h8.9"/>
+      <path class="cls-18" d="M667.488,275.032h7.785"/>
+      <path class="cls-18" d="M673.049,251.706h5.561"/>
+      <path class="cls-18" d="M673.049,245.041h5.561"/>
+      <path class="cls-18" d="M674.161,237.265h4.449"/>
+      <path class="cls-18" d="M675.273,230.6h3.337"/>
+      <path class="cls-18" d="M675.273,222.825h3.337"/>
+      <path class="cls-18" d="M675.273,213.939h4.449"/>
+    </g>
+    <g id="lines_copy" data-name="lines copy">
+      <path class="cls-18" d="M728.66,351.676l-17.8.137"/>
+      <path class="cls-18" d="M720.874,338.469H704.191"/>
+      <path class="cls-18" d="M715.313,327.349H698.63"/>
+      <path class="cls-18" d="M699.742,295.1h-10.01"/>
+      <path class="cls-18" d="M697.518,286.206h-8.9"/>
+      <path class="cls-18" d="M695.293,277.31h-7.785"/>
+      <path class="cls-18" d="M690.844,253.958l-5.561-.031"/>
+      <path class="cls-18" d="M690.844,247.286l-5.561-.024"/>
+      <path class="cls-18" d="M689.732,239.5l-4.449-.015"/>
+      <path class="cls-18" d="M688.62,232.822h-4.449"/>
+      <path class="cls-18" d="M688.62,225.047h-4.449"/>
+      <path id="Shape_1424_copy" data-name="Shape 1424 copy" class="cls-18" d="M687.508,216.16h-3.337"/>
+    </g>
+    <path class="cls-18" d="M653.029,346.122s10.578-20.1,28.918-19.994c0,0,16.315-.389,26.693,17.773"/>
+    <path class="cls-18" d="M678.61,165.064h5.561"/>
+    <path class="cls-18" d="M678.61,169.507h5.561"/>
+    <path class="cls-18" d="M649.692,325.017h63.4"/>
+    <path class="cls-18" d="M564.051,360.563H798.73"/>
+    <rect class="cls-21" x="665.25" y="258.375" width="32.25" height="7.75"/>
+  </g>
+</svg>

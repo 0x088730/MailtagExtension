@@ -1,0 +1,43 @@
+const CONFIG = {
+  api: process.env.REACT_APP_API_URL || 'https://api.mailtag.io',
+  googleAnalyticsId: process.env.REACT_APP_GOOGLE_ANLYTICS_ID || 'G-9JQYTKMY2Y',
+  auth: process.env.NODE_ENV === 'development'
+    ? "auth/google"
+    : 'auth/google',
+  authInfo: "auth/info",
+  logout: "auth/logout",
+  me: "users/me",
+  signatures: "signatures",
+  pingSequences: "ping-sequences",
+  emails: "emails",
+  team: "team",
+  settings: "settings",
+  teamMembers: "team-members",
+  teamInvites: "team-invites",
+  renewAccess: "auth/renew-access",
+  support: "support-tickets",
+  subscription: "subscription",
+  milestones: "milestone-events",
+  inboxEmails: "inbox/emails",
+  chart: "dashboard/chart-stats",
+  dashboardData: "dashboard/info",
+  emailsSentToday: "dashboard/emails-sent-today",
+  emailsSentMonth: "dashboard/emails-sent-month",
+  unreadEmailsToday: "dashboard/unread-emails-today",
+  readEmails: "dashboard/unread-emails-today",
+  readEmailsToday: "dashboard/read-emails-today",
+  recentEmails: "dashboard/recent-emails",
+  recentReadEmails: "dashboard/recent-read-emails",
+  recentUnreadEmails: "dashboard/recent-unread-emails",
+  averageOpenRate: "dashboard/average-open-rate",
+  avarageLinkClick: "dashboard/average-link-click-rate",
+  recentlyopenedEmails: "dashboard/recently-opened-emails",
+  unreadEmails: "dashboard/unread-emails",
+  signtureClicks: "dashboard/signature-clicks",
+  pings: "dashboard/pings",
+  chartStats: "dashboard/chart-stats",
+  averageLinkClickRateMonth: "dashboard/average-link-click-rate-month",
+  zendeskFAQ: "https://petro7838.zendesk.com/api/v2/help_center/en-us/articles.json"
+}
+
+export default CONFIG

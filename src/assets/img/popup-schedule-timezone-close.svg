@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Mailtag.io-Scheduled-Emails-Change-date" transform="translate(-1180.000000, -224.000000)" stroke="#2F3D4C" stroke-width="1.5">
+            <g id="Popup">
+                <g transform="translate(271.000000, 185.000000)">
+                    <g id="x" transform="translate(910.000000, 40.000000)">
+                        <path d="M15,0 L0,15" id="Shape"></path>
+                        <path d="M0,0 L15,15" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
